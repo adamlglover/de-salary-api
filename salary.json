@@ -1,4 +1,5 @@
-[
+{
+salaries: [
   {
     "ID": 1,
     "RECEIVED_DATE": "7/28/21",
@@ -3129,3 +3130,4 @@
     "SPECIFIC_SKILLS": "Must have experience with databases 5 years; SQL; Python; ETL extract, transform, and load; BI business intelligence tools such as Looker or Tableau; LinuxUnix operating systems; and Shell scripting."
   }
 ]
+}
