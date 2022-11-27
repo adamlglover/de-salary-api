@@ -1,6 +1,6 @@
-{
-"salaries": [
+[
   {
+    "ID": 1,
     "RECEIVED_DATE": "7/28/21",
     "DECISION_DATE": "9/1/21",
     "EMPLOYER_NAME": "AMPUSH LLC",
@@ -21,6 +21,7 @@
     "SPECIFIC_SKILLS": "MINIMUM REQUIREMENTSbr br EDUCATION BACHELORS DEGREE IN COMPUTER SCIENCE, COMPUTATIONAL SCIENCES, APPLIED MATHEMATICS, OR A RELATED QUANTITATIVE FIELD.br br EXPERIENCE NO EXPERIENCE REQUIRED.br br SKILLS EDUCATION OR EXPERIENCE BACKGROUND MUST INCLUDE DATABASE MANAGEMENT; DESIGNING AND MAINTAINING CLOUD INFRASTRUCTURE; PYTHON; DEVELOPING MICROSERVICES; ETL PIPELINES; CONTINUOUS INTEGRATION PIPELINES; AND, AMAZON WEB SERVICES AWS."
   },
   {
+    "ID": 2,
     "RECEIVED_DATE": "11/16/20",
     "DECISION_DATE": "5/21/21",
     "EMPLOYER_NAME": "Euromoney USA LLC",
@@ -41,6 +42,7 @@
     "SPECIFIC_SKILLS": "None"
   },
   {
+    "ID": 3,
     "RECEIVED_DATE": "11/16/20",
     "DECISION_DATE": "6/11/21",
     "EMPLOYER_NAME": "Euromoney USA LLC",
@@ -61,6 +63,7 @@
     "SPECIFIC_SKILLS": "None"
   },
   {
+    "ID": 4,
     "RECEIVED_DATE": "12/18/20",
     "DECISION_DATE": "6/11/21",
     "EMPLOYER_NAME": "SVB FINANCIAL GROUP",
@@ -81,6 +84,7 @@
     "SPECIFIC_SKILLS": "Bachelors degree in Computer Science, Computer Engineering or a related technical field and 10 years of experience in the job offered or a related occupation.br br Experience must includebr 1 Databasebr 2 Data Warehouse design and developmentbr 3 Unix and Linuxbr 4 ETL and DB design toolsbr 5 BI reporting"
   },
   {
+    "ID": 5,
     "RECEIVED_DATE": "7/13/20",
     "DECISION_DATE": "2/11/21",
     "EMPLOYER_NAME": "Clearway Energy Group LLC",
@@ -101,6 +105,7 @@
     "SPECIFIC_SKILLS": "MINIMUM EDUCATION  EXPERIENCEbr MASTER DEGREE IN COMPUTER SCIENCE, STATISTICS, MATHEMATICS, OR OTHER QUANTITATIVE FIELD PLUS 36 MONTHS 3 YEARS IN DATA OR SOFTWARE ENGINEER.br MINIMUM SKILLS REQUIREDbr 36 MONTHS 3 YEARS EXPERIENCE IN THE FOLLOWINGbr BUILDING AND MANAGING DATA PIPELINES.br DESIGNING SOLUTIONS TO IMPROVE LATENCY AND PERFORMANCE ISSUES.br SQL DATABASES WITH EXPERIENCE MONITORING AND OPTIMIZING PERFORMANCE.br TSQL WITH EXPERIENCE DEVELOPING OPTIMIZED DATA ACCESS TOOLS.br MANIPULATING DATA SETS IN C# OR OTHER .NET LANGUAGE.br MULTIPROCESSING, THREADING, CONCURRENCY, DISTRIBUTED SYSTEMS, LOAD BALANCING AND HIGH AVAILABILITY."
   },
   {
+    "ID": 6,
     "RECEIVED_DATE": "12/11/20",
     "DECISION_DATE": "6/9/21",
     "EMPLOYER_NAME": "OATH HOLDINGS INC.",
@@ -121,6 +126,7 @@
     "SPECIFIC_SKILLS": "Masters degree in Computer Science, Engineering, Statistics, Applied Mathematics, or a related field and completion of a universitylevel course, research project, internship, or thesis involving the following Complex analytical concepts; Data Science solving classification and clustering problems, performing information retrieval from unstructured and semistructured data set, and building supervised and semisupervised learning solutions; Data structures, algorithms, and objectoriented programing; Programming skills in Python and R; Work with data sets to do statistical analysis and machine learning; Various machine learning algorithms and the process to develop and evaluate new models."
   },
   {
+    "ID": 7,
     "RECEIVED_DATE": "3/30/21",
     "DECISION_DATE": "8/10/21",
     "EMPLOYER_NAME": "MUNICH RE AMERICA SERVICES, INC.",
@@ -129,7 +135,7 @@
     "EMP_CONTACT_CITY": "Princeton",
     "EMP_CONTACT_STATE_PROVINCE": "NEW JERSEY",
     "EMP_CONTACT_COUNTRY": "UNITED STATES OF AMERICA",
-    "EMP_CONTACT_POSTAL_CODE": "08540",
+    "EMP_CONTACT_POSTAL_CODE": 8540,
     "SKILL_LEVEL": "Level II",
     "WAGE": "$58,594.00",
     "UNIT_OF_PAY": "Year",
@@ -141,6 +147,7 @@
     "SPECIFIC_SKILLS": "Must use SQL, Java, JavaScript, HTML, Unix and SharePoint"
   },
   {
+    "ID": 8,
     "RECEIVED_DATE": "8/5/20",
     "DECISION_DATE": "3/18/21",
     "EMPLOYER_NAME": "GENERAL ELECTRIC COMPANY",
@@ -161,6 +168,7 @@
     "SPECIFIC_SKILLS": "Bachelors degree, or foreign degree equivalent, in STEM major Science, Technology, Engineering or Mathematics and 2 years of related experience required.br br br The position also requiresbr br 2 years experience with Database design, MySQL, SQL statements DDL, DML, DCL, and TCL, and Linux.br br 1 year experience with Oracle systems, Postgres, NoSQL Cassandra, and ETL.br br GE will only employ those who are legally authorized to work in the US for this opening. Any offer of employment is conditioned upon the successful completion of a background investigation and drug screen."
   },
   {
+    "ID": 9,
     "RECEIVED_DATE": "9/17/20",
     "DECISION_DATE": "4/13/21",
     "EMPLOYER_NAME": "Facteus, Inc.",
@@ -181,6 +189,7 @@
     "SPECIFIC_SKILLS": "Note regarding section H.4.10. EDUCATION, EXPERIENCE AND SPECIAL REQUIREMENTS, the minimum requirements are  Bachelors degree, or foreign equivalent, in Computer Science or closely related field of study. Minimum 3 years of experience developing and maintaining databases, to include the following experience and skills which may have been gained concurrently 2 years in Cloudbased services and design of Big Data solutions; 2 years with Spark 2.0 plus; 3 years with development and deployment of highly available SoftwareasaService SaaS products; 1 year with API, Data Lake, or Lambda architecture; 3 years in providing endtoend database solutions; 3 years in RDBMS database design and use of new columnar databases and concepts.br br Note regarding Section H.10B. EXPERIENCE IN AN ALTERNATE OCCUPATION The employer will accept experience in the job offered or a closely related alternate occupation, such as Technology Analyst, Systems Engineer, or similar. By quot;or similarquot;, it is meant that the listed job or occupation titles are typical, but there could be additional acceptable job titles not specifically listed that have a focus on developing and maintaining databases."
   },
   {
+    "ID": 10,
     "RECEIVED_DATE": "5/15/20",
     "DECISION_DATE": "11/6/20",
     "EMPLOYER_NAME": "DIGITAL MAP PRODUCTS",
@@ -201,6 +210,7 @@
     "SPECIFIC_SKILLS": "NA"
   },
   {
+    "ID": 11,
     "RECEIVED_DATE": "9/1/20",
     "DECISION_DATE": "4/16/21",
     "EMPLOYER_NAME": "APTIVA CORP",
@@ -209,7 +219,7 @@
     "EMP_CONTACT_CITY": "North Brunswick",
     "EMP_CONTACT_STATE_PROVINCE": "NEW JERSEY",
     "EMP_CONTACT_COUNTRY": "UNITED STATES OF AMERICA",
-    "EMP_CONTACT_POSTAL_CODE": "08902",
+    "EMP_CONTACT_POSTAL_CODE": 8902,
     "SKILL_LEVEL": "Level II",
     "WAGE": "$67,766.00",
     "UNIT_OF_PAY": "Year",
@@ -221,6 +231,7 @@
     "SPECIFIC_SKILLS": "SKILLS REQUIRED R, PYTHON, VBA, DB2, HADOOP, TABLEAU, SQL, PIG, HIVE, AND AGILE. ANY SUITABLE COMBINATION OF EDUCATION, TRAINING OR EXPERIENCE IS ACCEPTABLE."
   },
   {
+    "ID": 12,
     "RECEIVED_DATE": "2/5/21",
     "DECISION_DATE": "7/15/21",
     "EMPLOYER_NAME": "BBC Studios Americas Inc.",
@@ -241,6 +252,7 @@
     "SPECIFIC_SKILLS": "Masters in Marketing Sciences, Integrated Marketing, Industrial Engineering, or related core engineering discipline, plus 1 year of engineering andor data analytics experience with a focus on subscription andor streaming in the media marketing industry. Must have 6 months with each Crafting raw data into graphical depictions to be understood, shared, and acted on; Tableau for advanced data reporting, including matching key business metrics to geographic customer trends with heat maps; Understanding the underlying structures that constitute a data pipeline and manipulating these structures to ensure quality assurance; Using IBM SPSS Statistics software to apply the tool to real world business structures; Employing regression modelling to model the relationship between unique sets of data through statisticallyproficient means; Studying consumption trends and segmentation analysis to inform marketing and editorial performance metrics; Narrowing big datasets down to series of data that is presented to key business stakeholders; Analyzing the performance of specific entertainment content and customer activation choices to inform future editorial and event decisions; Assessing performance and recommending next steps as new products are launched; and Providing new measurement methodologies on key metrics a companyteam should look at to assess the success and failures of a product."
   },
   {
+    "ID": 13,
     "RECEIVED_DATE": "3/15/21",
     "DECISION_DATE": "8/13/21",
     "EMPLOYER_NAME": "YieldStreet",
@@ -261,6 +273,7 @@
     "SPECIFIC_SKILLS": "Bachelors degree in Computer Science, Computer Engineering or related plus two 2 years of experience in the job offered or as backend engineer or related.  Related experience must include Two 2 years of experience architecting, building and optimizing ETL pipelines in Databricks and Snowflake; Experience managing ETL pipelines in Airflow; Two 2 years of experience working with SQL, Spark, Python, Pandas, and NumPy; and, Two 2 years of experience hosting, provisioning, and maintaining database servers in cloud environment in AWS"
   },
   {
+    "ID": 14,
     "RECEIVED_DATE": "3/22/21",
     "DECISION_DATE": "6/11/21",
     "EMPLOYER_NAME": "OPTIMAL INC.",
@@ -281,6 +294,7 @@
     "SPECIFIC_SKILLS": "Various work locations all over the US."
   },
   {
+    "ID": 15,
     "RECEIVED_DATE": "5/22/20",
     "DECISION_DATE": "11/13/20",
     "EMPLOYER_NAME": "OPTUM SERVICES, INC.",
@@ -301,6 +315,7 @@
     "SPECIFIC_SKILLS": "Employer will accept any suitable combination of education, training, or experience.br br Masters degree or foreign equivalent in Computer Science, Information Technology, or a related field and two years of experience involving the following Data Warehouse and report testing; ETL processes; Relational Database; and SQL Scripting or Unix Shell Scripting. Position also requires two years of experience in the following SAS or COGNOS BI Report Testing.br br Or Bachelors degree or foreign equivalent in Computer Science, Information Technology, or a related field and five years of progressive postbaccalaureate experience involving the following Data Warehouse and report testing; ETL processes; Relational Database; and SQL Scripting or Unix Shell Scripting. Position also requires two years of experience in the following SAS or COGNOS BI Report Testing."
   },
   {
+    "ID": 16,
     "RECEIVED_DATE": "3/25/21",
     "DECISION_DATE": "8/17/21",
     "EMPLOYER_NAME": "STICKY.IO, INC.",
@@ -321,6 +336,7 @@
     "SPECIFIC_SKILLS": "Must have experience with database management; SQL and ETL tools such as Matillion; data reporting tools such as Tableau or Looker; coding and scripting languages such as Python, JSON or PHP."
   },
   {
+    "ID": 17,
     "RECEIVED_DATE": "10/13/20",
     "DECISION_DATE": "5/5/21",
     "EMPLOYER_NAME": "CROWDCIRCLE, INC",
@@ -341,6 +357,7 @@
     "SPECIFIC_SKILLS": "The following can be obtained via academic coursework or internships Relational databases, Distributed databases; Big data management and analysis, Mapreduce; and Hypothesis testing, Statistical estimation, Regression, Inference."
   },
   {
+    "ID": 18,
     "RECEIVED_DATE": "4/5/21",
     "DECISION_DATE": "9/3/21",
     "EMPLOYER_NAME": "HARTFORD FIRE INSURANCE COMPANY",
@@ -349,7 +366,7 @@
     "EMP_CONTACT_CITY": "Hartford",
     "EMP_CONTACT_STATE_PROVINCE": "CONNECTICUT",
     "EMP_CONTACT_COUNTRY": "UNITED STATES OF AMERICA",
-    "EMP_CONTACT_POSTAL_CODE": "06155",
+    "EMP_CONTACT_POSTAL_CODE": 6155,
     "SKILL_LEVEL": "Level I",
     "WAGE": "$69,846.00",
     "UNIT_OF_PAY": "Year",
@@ -361,6 +378,7 @@
     "SPECIFIC_SKILLS": "Position requires a Bachelors degree or foreign equivalent in Computer Science, Computer Engineering, Information Technology, or a related field plus two 2 years of postbaccalaureate work experience in the job offered or in a related field. Experience must include demonstrable knowledge and experience with the followingbr br  Demonstrable experience with data engineering, analytics, and operations concepts and technologies such as ETL, SQL, Performance tuning, production engineering, job scheduling and operations support;br  Demonstrable experience in Agile development methodologies;br  Demonstrable experience with endtoend Data Warehousing architecture and concepts and ETL best practices;br  Demonstrable experience with full software development lifecycle from conception to successful implementation;br  Demonstrable experience with insurance domain."
   },
   {
+    "ID": 19,
     "RECEIVED_DATE": "6/16/20",
     "DECISION_DATE": "12/22/20",
     "EMPLOYER_NAME": "HARTFORD STEAM BOILER INSPECTION  INSURANCE CO",
@@ -369,7 +387,7 @@
     "EMP_CONTACT_CITY": "Princeton",
     "EMP_CONTACT_STATE_PROVINCE": "NEW JERSEY",
     "EMP_CONTACT_COUNTRY": "UNITED STATES OF AMERICA",
-    "EMP_CONTACT_POSTAL_CODE": "08540",
+    "EMP_CONTACT_POSTAL_CODE": 8540,
     "SKILL_LEVEL": "Level I",
     "WAGE": "$70,616.00",
     "UNIT_OF_PAY": "Year",
@@ -381,6 +399,7 @@
     "SPECIFIC_SKILLS": "Experience must include doing predictive modeling of equipment breakdown insurance problems."
   },
   {
+    "ID": 20,
     "RECEIVED_DATE": "8/19/20",
     "DECISION_DATE": "4/5/21",
     "EMPLOYER_NAME": "ELECTRONIC ARTS TIBURON",
@@ -401,6 +420,7 @@
     "SPECIFIC_SKILLS": "The position requires a Bachelors or foreign equivalent degree in Computer Science, ElectronicElectrical Engineering or in related field and 2 years of experience in the job offered or in an analyst or engineerrelated occupation.br br Special Requirements Position requires experience in each of the following skillsbr br 1. 2 years of experience in Programming languages in Java, SQL, VB.NET and C;br 2. 2 years of experience in Databases in MySQL and MS SQL Server;br 3. 2 years of experience in AdHoc SQL queries and reports based on business requirements;br 4. 1 year of experience in Collecting data points from various distributed platforms;br 5. 1 year of experience in Processing massive data on distributed platforms;br 6. 1 year of experience in Performance optimizations at database and application level; andbr 7. 1 year of experience in Debugginginvestigating issues with automated data flows and ETLs.br br Employment and background checks may be required."
   },
   {
+    "ID": 21,
     "RECEIVED_DATE": "6/30/20",
     "DECISION_DATE": "2/3/21",
     "EMPLOYER_NAME": "HUGHES NETWORK SYSTEMS, LLC",
@@ -421,6 +441,7 @@
     "SPECIFIC_SKILLS": "Masters Degree in Computer Science, Statistics or related field and 6 months experience in Data Analysis, or Bachelors Degree in Computer Science, Statistics or related field plus 5 years experience in Data Analysis. Experience must include 6 months in each of the following Python; pandas; NumPy; Scikitlearn; Natural Language Processing; Hadoop MapReduce; and SQL."
   },
   {
+    "ID": 22,
     "RECEIVED_DATE": "1/19/21",
     "DECISION_DATE": "7/1/21",
     "EMPLOYER_NAME": "HARTFORD STEAM BOILER INSPECTION  INSURANCE CO",
@@ -429,7 +450,7 @@
     "EMP_CONTACT_CITY": "Princeton",
     "EMP_CONTACT_STATE_PROVINCE": "NEW JERSEY",
     "EMP_CONTACT_COUNTRY": "UNITED STATES OF AMERICA",
-    "EMP_CONTACT_POSTAL_CODE": "08540",
+    "EMP_CONTACT_POSTAL_CODE": 8540,
     "SKILL_LEVEL": "Level I",
     "WAGE": "$73,403.00",
     "UNIT_OF_PAY": "Year",
@@ -441,6 +462,7 @@
     "SPECIFIC_SKILLS": "Must use R and SAS software, like JMP"
   },
   {
+    "ID": 23,
     "RECEIVED_DATE": "7/31/20",
     "DECISION_DATE": "3/19/21",
     "EMPLOYER_NAME": "EVERSTRING TECHNOLOGY, LTD.",
@@ -461,6 +483,7 @@
     "SPECIFIC_SKILLS": "1 year of experience building high performance applications using Scala, Python, Spark, HadoopHDFS, Mongo, Kafka, or similar; 1 year of experience developing software solutions using ElasticSearch, Airflow, Pytorch, Tensorflow, Bash; 1 year of experience using Big Data, AI, and machine learning techniques around NLP, including statistical modeling, feature engineering, model development, and tuning and deployment into production ETL pipelines; and 1 year of experience using objectoriented design in software development.br br Please note Candidates with a bachelors degree in H.8 can qualify under H.10H.10A with 60 months of experience in the job offered or related. Experience in H.8C must be progressive and postbaccalaureate in nature in order to qualify with a bachelors degree under H.8."
   },
   {
+    "ID": 24,
     "RECEIVED_DATE": "12/18/20",
     "DECISION_DATE": "6/11/21",
     "EMPLOYER_NAME": "UNITED HEALTHCARE SERVICES, INC.",
@@ -481,6 +504,7 @@
     "SPECIFIC_SKILLS": "Masters degree in Computer Science, Computer Information Systems, Technology, or a related field and two years of experience involving the following Extract, Transform, and load ETL development and execution; data modeling and big data development; interpret technical requirements and business requirements while coordinating with stakeholder to help drive solutions for our Customers; big data technologies such as Sqoop, HBase, Hive Spark, Cassandra, or Hadoop; and open source software platforms and languages such as Java, Scala, Python, or Unix.br br Or Bachelors degree in Computer Science, Computer Information Systems, Technology, or a related field and five years of progressive post baccalaureate experience involving the following Extract, Transform, and load ETL development and execution; data modeling and big data development; interpret technical requirements and business requirements while coordinating with stakeholder to help drive solutions for our Customers; big data technologies such as Sqoop, HBase, Hive, Spark, Cassandra, or Hadoop; and open source software platforms and languages such as Java, Scala, Python, or Unix.br br Any suitable combination of education, training, or experience is acceptable."
   },
   {
+    "ID": 25,
     "RECEIVED_DATE": "12/5/20",
     "DECISION_DATE": "6/4/21",
     "EMPLOYER_NAME": "OPTUM SERVICES, INC.",
@@ -501,6 +525,7 @@
     "SPECIFIC_SKILLS": "Requires a Masters degree or foreign equivalent in Information Technology, Management, Engineering, or a related field and two 2 years of experience in each of the following Requirements gathering and documenting;  Agile framework and Scrum Master skills; Process flow and work flow documenting; Data analysis and data mapping; and SSIS and EDI transactions OR a Bachelors degree or foreign equivalent in Information Technology, Management, Engineering, or a related field and five 5 years of progressive postbaccalaureate experience in each of the following Requirements gathering and documenting;  Agile framework and Scrum Master skills; Process flow and work flow documenting; Data analysis and data mapping; and SSIS and EDI transactions.br br EMPLOYER WILL ACCEPT ANY SUITABLE COMBINATION OF EDUCATION, TRAINING, OR EXPERIENCE."
   },
   {
+    "ID": 26,
     "RECEIVED_DATE": "3/22/21",
     "DECISION_DATE": "8/17/21",
     "EMPLOYER_NAME": "CARILION SERVICES INC.",
@@ -521,6 +546,7 @@
     "SPECIFIC_SKILLS": "1 year experience with DataStage; ETL; ODBC; SQL Server; Snowflake Schema; SQL; PLSQL; Shell Scripts; Python.br br For H.6., H.8., and H.10., if Masters degree, then need one year of experience in job offered or any related occupation. If Bachelors degree, then need five years of experience in job offered or any related occupation."
   },
   {
+    "ID": 27,
     "RECEIVED_DATE": "12/9/20",
     "DECISION_DATE": "6/7/21",
     "EMPLOYER_NAME": "PURE STORAGE, INC.",
@@ -541,6 +567,7 @@
     "SPECIFIC_SKILLS": "Must have experience with Spark and Python; ETL tools including Informatica and data warehousing technologies; SQL; Tableau; and data mining."
   },
   {
+    "ID": 28,
     "RECEIVED_DATE": "3/16/21",
     "DECISION_DATE": "8/3/21",
     "EMPLOYER_NAME": "OPTUM SERVICES, INC.",
@@ -561,6 +588,7 @@
     "SPECIFIC_SKILLS": "Masters degree or foreign equivalent in Information Systems, Computer Science, Engineering, or a related field and two years of experience involving the following Agile framework and Scrum Master skills; Process flow and work flow documenting; Data analysis and data mapping; and SSIS transactionsbr br ORbr br Bachelors degree or foreign equivalent in Information Systems, Computer Science, Engineering, or a related field and five years of progressive postbaccalaureate experience involving the following Agile framework and Scrum Master skills; Process flow and work flow documenting; Data analysis and Data mapping; and SSIS transactions.br br Any suitable combination of education, training or experience is acceptable."
   },
   {
+    "ID": 29,
     "RECEIVED_DATE": "6/11/20",
     "DECISION_DATE": "12/4/20",
     "EMPLOYER_NAME": "CITADEL AMERICAS LLC",
@@ -581,6 +609,7 @@
     "SPECIFIC_SKILLS": "One 1 year of experience in Software engineering; programming in Python; data structures, algorithms and computer architecture; systems design including translating requirements into systems functionalities and building clear user interfaces; and Big data processing and Cloud technologies including Spark, Hadoop, AWS S3.br br Employer will accept foreign degree equivalent. Employer will accept university level experience in lieu of work experience in job offered or alternate occupation."
   },
   {
+    "ID": 30,
     "RECEIVED_DATE": "9/10/20",
     "DECISION_DATE": "4/20/21",
     "EMPLOYER_NAME": "ABOUT INC",
@@ -601,6 +630,7 @@
     "SPECIFIC_SKILLS": "Requires a Bachelors Degree in Computer Science, Computer Engineering, Information Systems Engineering, or a closely related technical field or foreign equivalent, plus at least 1 year of professional experience working with backend data systems to create clean data structures for use across the organization. Experience must includebr 1 year of experience with data warehousing and Python coding and scriptingbr 1 year  of experience writing SQL queries to manipulate data, including window functions and nested subqueriesbr 1 year  of experience with AWS infrastructure, including the use of S3, EC2, IAM, and Redshiftbr 1 year of experience with Web Development HTML, JS, CSS and Web Framework Shiny, Flask"
   },
   {
+    "ID": 31,
     "RECEIVED_DATE": "11/23/20",
     "DECISION_DATE": "5/20/21",
     "EMPLOYER_NAME": "MASSACHUSETTS MUTUAL LIFE INSURANCE COMPANY",
@@ -609,7 +639,7 @@
     "EMP_CONTACT_CITY": "Springfield",
     "EMP_CONTACT_STATE_PROVINCE": "MASSACHUSETTS",
     "EMP_CONTACT_COUNTRY": "UNITED STATES OF AMERICA",
-    "EMP_CONTACT_POSTAL_CODE": "01111",
+    "EMP_CONTACT_POSTAL_CODE": 1111,
     "SKILL_LEVEL": "Level I",
     "WAGE": "$76,523.00",
     "UNIT_OF_PAY": "Year",
@@ -621,6 +651,7 @@
     "SPECIFIC_SKILLS": "One 1 year of experience in the job offered or related occupation must involve software engineering standard methodologies; programming with Java or Scala; and working with AWS or similar cloud platform technologies. EMPLOYER WILL ACCEPT ANY SUITABLE COMBINATION OF EDUCATION, TRAINING, OR EXPERIENCE."
   },
   {
+    "ID": 32,
     "RECEIVED_DATE": "9/14/20",
     "DECISION_DATE": "4/26/21",
     "EMPLOYER_NAME": "DAILYMOTION",
@@ -641,6 +672,7 @@
     "SPECIFIC_SKILLS": "Any suitable commination of education, training or experience consistentbr with H4 through H10 of this ETA 9089 is acceptable for the position offered."
   },
   {
+    "ID": 33,
     "RECEIVED_DATE": "12/18/20",
     "DECISION_DATE": "6/11/21",
     "EMPLOYER_NAME": "SERVICETITAN INC.",
@@ -661,6 +693,7 @@
     "SPECIFIC_SKILLS": "BACHELOR OF SCIENCE DEGREE IN COMPUTER SCIENCE, MANAGEMENT INFORMATION SYSTEMS, ENGINEERING OR A RELATED FIELD OF STUDY PLUS 3 YEARS OF WORK EXPERIENCE; WORK EXPERIENCE MUST INCLUDE 3 YEARS OF EXPERIENCE IN EACH OF THE FOLLOWING COMPLEX ETL TOOLS; DATABASE AND DATA MODEL CONCEPTS; AND VERTICAL SAAS; AND 2 YEARS OF EXPERIENCE IN THE FOLLOWING SQL SERVER 2008201220142016; TSQL; AND SSIS."
   },
   {
+    "ID": 34,
     "RECEIVED_DATE": "1/21/21",
     "DECISION_DATE": "7/1/21",
     "EMPLOYER_NAME": "FABFITFUN",
@@ -681,6 +714,7 @@
     "SPECIFIC_SKILLS": "Must have experience in relational databases SQL, stored procedurefunction, and AWS; Python and Shell scripting; BI reporting tools, including Looker, Tableau and Pentaho; Big Data technologies, including Spark and Hadoop; and machine learning."
   },
   {
+    "ID": 35,
     "RECEIVED_DATE": "12/4/19",
     "DECISION_DATE": "10/21/20",
     "EMPLOYER_NAME": "PHDATA, INC.",
@@ -701,6 +735,7 @@
     "SPECIFIC_SKILLS": "This position requires demonstrated knowledge in application of Hadoop technologies, Java, Python, and the Cloudera technology stack including Spark and Scala. The job opportunity may involve minimal travel to unanticipated client sites in Hennepin and Ramsey counties."
   },
   {
+    "ID": 36,
     "RECEIVED_DATE": "8/5/20",
     "DECISION_DATE": "3/15/21",
     "EMPLOYER_NAME": "ABBVIE INC.",
@@ -721,6 +756,7 @@
     "SPECIFIC_SKILLS": "Masters degree in Management Information Systems, Information Technology, Computer ScienceEngineering or in a related field of study required with at least 2 years of experience in i planning, building, and running enterprise class information management solutions across a variety of technologies including big data, master data, data profiling, batch processing, data indexing technologies, and cloud computing services like Amazon Web Services; ii data engineering, data transformation and modeling; iii defining and applying information quality and consistency business rules throughout the data processing lifecycle; iv managing the information portal and its customerfacing resources data catalogportal; and v distributed data processing and streaming frameworks i.e. Hadoop, Spark and expertise with programming languages for data transformation i.e. Python, Java, SQL."
   },
   {
+    "ID": 37,
     "RECEIVED_DATE": "3/29/21",
     "DECISION_DATE": "8/12/21",
     "EMPLOYER_NAME": "CROWDCIRCLE, INC",
@@ -741,6 +777,7 @@
     "SPECIFIC_SKILLS": "The following can be obtained via academic coursework or internships Big data, regression; Relational databases like SQL; Proficiency in scripting languages like Python; and Proficiency in statistical analysis tools like R."
   },
   {
+    "ID": 38,
     "RECEIVED_DATE": "4/9/21",
     "DECISION_DATE": "8/26/21",
     "EMPLOYER_NAME": "CROWDCIRCLE, INC",
@@ -761,6 +798,7 @@
     "SPECIFIC_SKILLS": "The following can be obtained via academic coursework, internships, or experience Big data management; Programming languages like C, Python, and PERL; Proficiency in statistical analysis tools like R; Fundamental platforms such as Hadoop and Spark; Hypothesis testing, regression, statistical inference; and Relational databases like SQL."
   },
   {
+    "ID": 39,
     "RECEIVED_DATE": "4/30/20",
     "DECISION_DATE": "10/6/20",
     "EMPLOYER_NAME": "OPTUM SERVICES, INC.",
@@ -781,6 +819,7 @@
     "SPECIFIC_SKILLS": "Requires a Masters degree or foreign equivalent in Computer Science, Engineering, or a related field and two years of experience involving the following Oracle EBusiness Suite; Oracle Database administration in a complex, enterprise environment;  and OEM Grid Control, Oracle WebLogic, Oracle SOA Suite, Oracle Superclusters, Oracle Exalogic, and ZFS file systems.  OR Bachelors degree or foreign equivalent in Computer Science, Engineering, or related field and five years of progressive post baccalaureate experience involving the following Oracle EBusiness Suite; Oracle Database administration in a complex, enterprise environment;  and OEM Grid Control, Oracle WebLogic, Oracle SOA Suite, Oracle Superclusters, Oracle Exalogic, and ZFS file systems.br br Any suitable combination of education, training, or experience is acceptable."
   },
   {
+    "ID": 40,
     "RECEIVED_DATE": "2/17/21",
     "DECISION_DATE": "7/26/21",
     "EMPLOYER_NAME": "LAKSAN TECHNOLOGIES LLC",
@@ -789,7 +828,7 @@
     "EMP_CONTACT_CITY": "Metuchen",
     "EMP_CONTACT_STATE_PROVINCE": "NEW JERSEY NJ",
     "EMP_CONTACT_COUNTRY": "UNITED STATES OF AMERICA",
-    "EMP_CONTACT_POSTAL_CODE": "08840",
+    "EMP_CONTACT_POSTAL_CODE": 8840,
     "SKILL_LEVEL": "Level I",
     "WAGE": "$80,954.00",
     "UNIT_OF_PAY": "Year",
@@ -801,6 +840,7 @@
     "SPECIFIC_SKILLS": "Travel required to unanticipated client locations throughout the U.S."
   },
   {
+    "ID": 41,
     "RECEIVED_DATE": "2/3/21",
     "DECISION_DATE": "7/19/21",
     "EMPLOYER_NAME": "BLACKHAWK NETWORK, INC.",
@@ -821,6 +861,7 @@
     "SPECIFIC_SKILLS": "Must have at least 1 year of prior work experience in the following 1.Building data models and ETL solutions to load into data warehouses. 2.Developing complex SQL scripts to manipulate large data structures. 3.Working with dimensional modeling to support data warehouse environment. 4.Data staging and building reusable ETL components, and troubleshooting technical issues. 5.Using Talend to extract data from multiple sources, and transform and load into MySQL and Amazon Redshift databases. 6.Managing job schedule using bash scripts. 7.Using java code loops, functions and debug errors in Talend."
   },
   {
+    "ID": 42,
     "RECEIVED_DATE": "8/10/20",
     "DECISION_DATE": "3/22/21",
     "EMPLOYER_NAME": "BEACON STREET SERVICES",
@@ -841,6 +882,7 @@
     "SPECIFIC_SKILLS": "Any suitable combination of training, education, and experience is acceptable. Requires a Bachelors degree or foreign equivalent in Computer Science, Computer Engineering, Information Systems, or a closely related field and 3 years of experience as Data Engineer, Analyst, or related occupation."
   },
   {
+    "ID": 43,
     "RECEIVED_DATE": "5/31/20",
     "DECISION_DATE": "11/25/20",
     "EMPLOYER_NAME": "OPTUM SERVICES, INC.",
@@ -861,6 +903,7 @@
     "SPECIFIC_SKILLS": "Requires a Masters degree or foreign equivalent in Computer Science, Information Systems, Engineering, or a related field and two 2 years of experience with data analysis working on creating source to Target mapping for complex database systems; and development experience in analytical application including Business Intelligence domainbr br OR Bachelors degree or foreign equivalent in Computer Science, Information Systems, Engineering, or a related field and five 5 years of progressive post baccalaureate experience with data analysis working on creating source to Target mapping for complex database systems; and development experience in analytical application including Business Intelligence domain.br br Any suitable combination of education, training, or experience is acceptable."
   },
   {
+    "ID": 44,
     "RECEIVED_DATE": "7/30/20",
     "DECISION_DATE": "3/9/21",
     "EMPLOYER_NAME": "OPTUM SERVICES, INC.",
@@ -881,6 +924,7 @@
     "SPECIFIC_SKILLS": "Requires a Masters degree or foreign equivalent in Computer Science, Information Systems, Engineering, or a related field and two years of experience with data analysis working on creating source to Target mapping for complex database systems; and development experience in analytical application including Business Intelligence domainbr br OR Bachelors degree or foreign equivalent in Computer Science, Information Systems, Engineering, or a related field and five years of progressive post baccalaureate experience with data analysis working on creating source to Target mapping for complex database systems; and development experience in analytical application including Business Intelligence domain.br br Any suitable combination of education, training, or experience is acceptable."
   },
   {
+    "ID": 45,
     "RECEIVED_DATE": "8/31/20",
     "DECISION_DATE": "4/9/21",
     "EMPLOYER_NAME": "UNITED HEALTHCARE SERVICES, INC.",
@@ -901,6 +945,7 @@
     "SPECIFIC_SKILLS": "EMPLOYER WILL ACCEPT ANY SUITABLE COMBINATION OF EDUCATION, TRAINING, OR EXPERIENCE.  Requires a Masters degree or foreign equivalent in Information Technology, Computer Science, or a related field and two 2 years of experience in each of the following Talend Standard and Bigquery development; developing ETL processes; integrating data from various sources; development of high performance ETL to transform and load high volume of data; AWS environment; unit and system testing on the ETL processes and resulting data warehouse and ad hoc tables; and understanding the existing ETL environment, translating into new environment requirements and planning tasks to meet those requirements OR a Bachelors degree or foreign equivalent in Information Technology, Computer Science, or a related field and five 5 years of progressive postbaccalaureate experience in each of the following Talend Standard and Bigquery development; developing ETL processes; integrating data from various sources; development of high performance ETL to transform and load high volume of data; AWS environment; unit and system testing on the ETL processes and resulting data warehouse and ad hoc tables; and understanding the existing ETL environment, translating into new environment requirements and planning tasks to meet those requirements."
   },
   {
+    "ID": 46,
     "RECEIVED_DATE": "8/7/20",
     "DECISION_DATE": "3/18/21",
     "EMPLOYER_NAME": "AETNA RESOURCES LLC",
@@ -909,7 +954,7 @@
     "EMP_CONTACT_CITY": "Hartford",
     "EMP_CONTACT_STATE_PROVINCE": "CONNECTICUT",
     "EMP_CONTACT_COUNTRY": "UNITED STATES OF AMERICA",
-    "EMP_CONTACT_POSTAL_CODE": "06156",
+    "EMP_CONTACT_POSTAL_CODE": 6156,
     "SKILL_LEVEL": "Level II",
     "WAGE": "$81,890.00",
     "UNIT_OF_PAY": "Year",
@@ -921,6 +966,7 @@
     "SPECIFIC_SKILLS": "Requires experience working in Data Warehouse projects Experience must include leveraging multiple tools and programming languages to analyze and manipulate data sets from disparate data sources; ; building data transformation and processing solutions, and working with largescale search applications and building high volume data pipelines. Must also have experience with the following SAS Enterprise Guide, Advance SAS, SAS MACRO, SAS SQL, SAS STAT, Secure FX, bash shell scripts, UNIX utilities, UNIX Commands, IBM DB2, MS SQL, PUTTY, Hadoop architecture, Netezza and Teradata. Mainframe  JCL, REXX, VSAM, XML, EASYTRIEVE, MVS, zOS, TSO, ISPF, Fileaid, Stored Procedures, ENDEVOR, ZEKE Scheduler, XPEDITER, SYNCSORT, IDCAMS.br Will accept combination of degrees equivalent to a Masters."
   },
   {
+    "ID": 47,
     "RECEIVED_DATE": "4/30/20",
     "DECISION_DATE": "10/6/20",
     "EMPLOYER_NAME": "OPTUM SERVICES, INC.",
@@ -941,6 +987,7 @@
     "SPECIFIC_SKILLS": "Requires a Masters degree or foreign equivalent in Computer Science, Engineering, Mathematics or related field and two 2 years of experience in the following healthcare industry; agile methodologies; data analysis; SQL scripting; relational data base; data warehouse; and testing experience.br br Bachelors degree or foreign equivalent in Computer Science, Engineering, Mathematics or related field and five 5 years of progressive post baccalaureate experience in the following health care industry; agile methodologies; data analysis; SQL scripting; relational data base; data warehouse; and testing experience.br br Any suitable combination of education, training, or experience is acceptable."
   },
   {
+    "ID": 48,
     "RECEIVED_DATE": "1/26/21",
     "DECISION_DATE": "7/13/21",
     "EMPLOYER_NAME": "MONSANTO COMPANY",
@@ -961,6 +1008,7 @@
     "SPECIFIC_SKILLS": "Requires Masters in C.S. or Computer Engineering  2 yrs experience performing data warehousing  data modeling in SQL and NoSQL databases; working with big data tools, including Spark, Kafka, Flink andor Hadoop; developing algorithms  data structures; authoring workflows  pipelines using Airflow, AWS Step Functions andor KubeFlow; working with cloudservices, including EMR, S3, RedShift andor EC2; architecting distributed systems; writing code in python, Java, R andor Scala; administering databases  networks; planning, scheduling  delivering software using the DevOps methodology; running production cloud systems  diagnosing and fixing problems; and designing  developing user interfaces using JQuery, HTML, CSS, JavaScript, Bootstrap, React and Angular JS. Will also accept Bachelors in said fields  5 yrs progressive postBachelors stated experience."
   },
   {
+    "ID": 49,
     "RECEIVED_DATE": "5/27/20",
     "DECISION_DATE": "10/30/20",
     "EMPLOYER_NAME": "PAYPAL, INC.",
@@ -981,6 +1029,7 @@
     "SPECIFIC_SKILLS": "1 System analysis and design;br 2 Data modeling;br 3 Databases;br 4 SQL;br 5 JIRA;br 6 Tableau;br 7 Agile Methodologies;br 8 Business Intelligence Reporting.br br Any suitable combination of education, training and experience is acceptable. Experience can be gained through coursework, scholastic achievement, and work experience."
   },
   {
+    "ID": 50,
     "RECEIVED_DATE": "12/7/20",
     "DECISION_DATE": "6/4/21",
     "EMPLOYER_NAME": "AGE OF LEARNING, INC.",
@@ -1001,6 +1050,7 @@
     "SPECIFIC_SKILLS": "Please note that the wage determination for this matter is valid, as recruitment began during the validity period specified by the ETA in the wage determination."
   },
   {
+    "ID": 51,
     "RECEIVED_DATE": "6/2/20",
     "DECISION_DATE": "12/7/20",
     "EMPLOYER_NAME": "EAB GLOBAL, INC",
@@ -1021,6 +1071,7 @@
     "SPECIFIC_SKILLS": "MASTERS DEGREE IN COMPUTER SCIENCE, INFORMATION TECHNOLOGY OR RELATED FIELD PLUS 1 YEAR OF EXPERIENCE IN DATA WAREHOUSING OR DATA ENGINEERING. ALTERNATIVELY, BACHELORS DEGREE IN COMPUTER SCIENCE, INFORMATION TECHNOLOGY OR RELATED FIELD PLUS 3 YEARS OF EXPERIENCE IN DATA WAREHOUSING OR DATA ENGINEERING ALSO ACCEPTED. PRIOR EXPERIENCE MUST INCLUDE 6 MONTHS OF EXPERIENCE WITH DATA SANITIZATION, DATA IMPORT AND EXPORT ETL; 6 MONTHS OF EXPERIENCE WITH SQL AND NOSQL DATABASE SYSTEMS POSTGRES, MONGODB, MICROSOFT SQL SERVER, AND MYSQL; 6 MONTHS OF EXPERIENCE UTILIZING SCRIPTING LANGUAGES PYTHON AND POWERSHELL. PRIOR EXPERIENCE MUST INCLUDE EXPERIENCE WORKING WITH AGILE DEVELOPMENT METHODOLOGIES."
   },
   {
+    "ID": 52,
     "RECEIVED_DATE": "12/16/20",
     "DECISION_DATE": "6/10/21",
     "EMPLOYER_NAME": "OATH HOLDINGS INC.",
@@ -1041,6 +1092,7 @@
     "SPECIFIC_SKILLS": "PhD in Computer Science or a related field. Position also requires completion of a universitylevel course, research project, internship, or thesis or 6 months of experience involving the following Java; C; Python; Unix or Linux; Machine learning fundamentals; Database system fundamentals; Data structures and Algorithms; and Statistical methods including Bayesian probability, statistical significance, confidence intervals, and probability distributions."
   },
   {
+    "ID": 53,
     "RECEIVED_DATE": "2/26/21",
     "DECISION_DATE": "7/23/21",
     "EMPLOYER_NAME": "GENUENT GLOBAL, LLC",
@@ -1061,6 +1113,7 @@
     "SPECIFIC_SKILLS": "Experience must have included database and ETL development, including data processing workflows Kafka, Mapr Streams, Spark Streaming, Apache Beam, Streamsets; GCP data platform components BigQuery, BigTable, DataFlow, DataProc, DataLab, DataStudio, DataPrep, CMLE; development and implementation of enterpriselevel data solutions using Java and Python Scikitlearn, Scipy, Pandas, Numpy, Tensorflow; deploying containerbased workloads; proven collaboration with data scientists and stewards to uncover detailed business requirements for data engineering; Linux OS command line tools and bash scripting; NoSQL experience HBase, Cassandra with time series data; Agile development methodologies; automating manual processes; exp. with presentations and communication. Drug and background screen required. Employers Headquarters is located in Houston, TX; periodic relocation andor travel may be required to various unanticipated work sites in the U.S."
   },
   {
+    "ID": 54,
     "RECEIVED_DATE": "4/20/21",
     "DECISION_DATE": "9/1/21",
     "EMPLOYER_NAME": "APIVISTA LLC",
@@ -1081,6 +1134,7 @@
     "SPECIFIC_SKILLS": "Two years experience with Java, HTML5, SQL, NoSQL, PostgreSQL SVN, GIT and UNIX required."
   },
   {
+    "ID": 55,
     "RECEIVED_DATE": "6/17/20",
     "DECISION_DATE": "12/23/20",
     "EMPLOYER_NAME": "Geometric Results Inc.",
@@ -1101,6 +1155,7 @@
     "SPECIFIC_SKILLS": "H.10B Continued  Same or similar position. Similar includes Programmer Analyst focused on creating, maintaining and mapping enterprise data.br br H.14  36 months of experience in Informatica, SQL Server, Oracle and Agile Methodologies experience may be concurrent."
   },
   {
+    "ID": 56,
     "RECEIVED_DATE": "7/10/20",
     "DECISION_DATE": "6/30/21",
     "EMPLOYER_NAME": "CORUS SYSTEMS  CONSULTING, INC",
@@ -1109,7 +1164,7 @@
     "EMP_CONTACT_CITY": "Boston",
     "EMP_CONTACT_STATE_PROVINCE": "MASSACHUSETTS",
     "EMP_CONTACT_COUNTRY": "UNITED STATES OF AMERICA",
-    "EMP_CONTACT_POSTAL_CODE": "02111",
+    "EMP_CONTACT_POSTAL_CODE": 2111,
     "SKILL_LEVEL": "Level II",
     "WAGE": "$91,874.00",
     "UNIT_OF_PAY": "Year",
@@ -1121,6 +1176,7 @@
     "SPECIFIC_SKILLS": "All required experience must have included developing ETL processes in Oracle PLSQL and Linux scripting to feed antimoney launderingrelated data warehouses for financial institution;   consolidating financial information in several data warehouses, including mortgage, loan, debit and credit card operations, accounts, customers, checks, money orders, and ATMrelated data; developing and maintaining data models and schemas in data warehouses; and utilizing Oracle DBA, SQL, Oracle SQLLoader, Linux Bash, ControlM, Test Driven Development, data warehouses, and Datamart Analytics.br br Position is for roving employee who will work in various unanticipated locations throughout the U.S. according to business need.br br NOTE The foreign worker, Daniel Jeronimo San Juan McNulty, is not a direct investor of the employerpetitioner. He is an employee of the E2 investor company, Corus Systems  Consulting Inc. The foreign worker holds no ownership interest in the employerpetitioner."
   },
   {
+    "ID": 57,
     "RECEIVED_DATE": "3/25/21",
     "DECISION_DATE": "8/17/21",
     "EMPLOYER_NAME": "GOOD APPLE PUBLISHING LLC",
@@ -1141,6 +1197,7 @@
     "SPECIFIC_SKILLS": "Any suitable commination of education, training or experience consistentbr with H4 through H10 of this ETA 9089 is acceptable for the position offered."
   },
   {
+    "ID": 58,
     "RECEIVED_DATE": "10/29/20",
     "DECISION_DATE": "5/11/21",
     "EMPLOYER_NAME": "REMEDY BPCI PARTNERS LLC",
@@ -1149,7 +1206,7 @@
     "EMP_CONTACT_CITY": "Norwalk",
     "EMP_CONTACT_STATE_PROVINCE": "CONNECTICUT",
     "EMP_CONTACT_COUNTRY": "UNITED STATES OF AMERICA",
-    "EMP_CONTACT_POSTAL_CODE": "06854",
+    "EMP_CONTACT_POSTAL_CODE": 6854,
     "SKILL_LEVEL": "Level II",
     "WAGE": "$92,435.00",
     "UNIT_OF_PAY": "Year",
@@ -1161,6 +1218,7 @@
     "SPECIFIC_SKILLS": "Must possess the following at least two years of experience with database languages for both structured and unstructured frameworks such as SQL, MYSQL, or Mongo; and at least two years of experience with programming language such as Python or a statistical programming language SAS, SPSS, STATA OR R."
   },
   {
+    "ID": 59,
     "RECEIVED_DATE": "9/9/20",
     "DECISION_DATE": "4/21/21",
     "EMPLOYER_NAME": "PROSPER MARKETPLACE, INC.",
@@ -1181,6 +1239,7 @@
     "SPECIFIC_SKILLS": "Two 2 years of experience with each of the following skills is requiredbr SQL Server; Data modeling including Operation Data Stores, Enterprise Data Warehouse, or Data Marts; Maintaining complicated SSIS Packages; Python; and Cloud Applications.br br REQUIREMENTS Masters degree or foreign equivalent in Computer Science, Computer Engineering, Information Systems or related field and 2 years of experience in job offered or related occupation.  In the alternative, employer will accept a Bachelors degree in Computer Science, Computer Engineering, Information Systems or related field and 5 years of progressive, postbaccalaureate experience in the job offered or related occupation."
   },
   {
+    "ID": 60,
     "RECEIVED_DATE": "8/3/20",
     "DECISION_DATE": "3/31/21",
     "EMPLOYER_NAME": "UPSTART NETWORK, INC.",
@@ -1201,6 +1260,7 @@
     "SPECIFIC_SKILLS": "Python, Java, SQL, Hadoop or Spark."
   },
   {
+    "ID": 61,
     "RECEIVED_DATE": "10/28/20",
     "DECISION_DATE": "5/14/21",
     "EMPLOYER_NAME": "SALESFORCE.COM",
@@ -1221,6 +1281,7 @@
     "SPECIFIC_SKILLS": "1 Linux 2 years; 2 Python 2 years; 3 SQL 2 years; 4 Map Reduce; 5 Hive 2 years; 6 Spark; 7 Pig; 8 Tableau; 9 AWS. Any suitable combination of education, training andor experience is acceptable. Education, experience and criminal background checks will be conducted."
   },
   {
+    "ID": 62,
     "RECEIVED_DATE": "7/6/20",
     "DECISION_DATE": "4/6/21",
     "EMPLOYER_NAME": "FACEBOOK, INC.",
@@ -1241,6 +1302,7 @@
     "SPECIFIC_SKILLS": "Employer will accept a Bachelors degree in Computer Science, Engineering, Mathematics, Physics, or related field and 24 months of work experience in job offered or in a data analytics or computerrelated occupation.br br Experience must include 6 months of experience in each of the followingbr br 1. Data ETL Extract, Transform. Load design, implementation, and maintenance on a large scale;br 2. Programming, in Python, Perl, Java, or PHP;br 3. Writing SQL statements;br 4. Analyzing large volumes of data to provide data driven insights, gaps, and inconsistencesbr 5. Data warehousing architecture and plans;br 6. Map Reduce or MPP system; andbr 7. Hadoop, HBase, or Hive."
   },
   {
+    "ID": 63,
     "RECEIVED_DATE": "2/17/21",
     "DECISION_DATE": "8/6/21",
     "EMPLOYER_NAME": "SNAPDOCS, INC.",
@@ -1261,6 +1323,7 @@
     "SPECIFIC_SKILLS": "Minimum Requirementsbr br Education  Masters degree in Computer Science, Mathematics, Statistics or other quantitative fieldbr br Experience At least two 2 years of experience as data engineer or software developer.br br Skills  Experience should include at least two 2 years of experience with Python,  Shell Bash, MongoDB, Postgres, Influxdb, Docker, Pandas, Numpy, GIT Version Control, REST, scikit, Jenkins and Redshift."
   },
   {
+    "ID": 64,
     "RECEIVED_DATE": "4/14/21",
     "DECISION_DATE": "8/30/21",
     "EMPLOYER_NAME": "FORMAGRID INC DBA AIRTABLE",
@@ -1281,6 +1344,7 @@
     "SPECIFIC_SKILLS": "1 Python 2 Dashboarding 3 Metric Development 4 SQL 5 ETL 6 Data Modeling and Data Warehousing. Any suitable combination of education, training and experience is acceptable. Experience can be gained through coursework, scholastic achievement, or work experience. Telecommuting is permitted."
   },
   {
+    "ID": 65,
     "RECEIVED_DATE": "10/16/20",
     "DECISION_DATE": "8/25/21",
     "EMPLOYER_NAME": "EPIC CREATIONS INC",
@@ -1301,6 +1365,7 @@
     "SPECIFIC_SKILLS": "Requires experience in or knowledge of Python, Scala, R, C, JavaScript, or Java; Tensorflow, Pytorch, Keras, or scikitlearn; AB testing analysis; Hypothesis testing; Experience in data analysis using SQL and Python; Two of linear and logistic regression, support vector machines, gradient boosted decision trees, Bayesian inference techniques, collaborative filtering, or deep neural networks"
   },
   {
+    "ID": 66,
     "RECEIVED_DATE": "3/11/21",
     "DECISION_DATE": "8/3/21",
     "EMPLOYER_NAME": "ZILLOW, INC.",
@@ -1321,6 +1386,7 @@
     "SPECIFIC_SKILLS": "Bachelors or foreign equivalent degree in Computer Science, Computer Engineering, or a related field and five years of progressive, postbaccalaureate experience in Building and optimizing big data pipelines, architectures, and datasets; Building processes to support data transformation, data structures, metadata, and dependence and workload management; Manipulating, processing, and extracting value from large distributed datasets; and Message queuing, stream processing, and highly scalable big data stores. Also requires four years of experience in SQL and relational databases such as Oracle or MySQL; Unstructured datasets; and Big data tools such as Hadoop, Spark, or Kafka."
   },
   {
+    "ID": 67,
     "RECEIVED_DATE": "12/21/20",
     "DECISION_DATE": "6/11/21",
     "EMPLOYER_NAME": "AETNA RESOURCES LLC",
@@ -1329,7 +1395,7 @@
     "EMP_CONTACT_CITY": "LINCOLN",
     "EMP_CONTACT_STATE_PROVINCE": "RHODE ISLAND 4017701621",
     "EMP_CONTACT_COUNTRY": "UNITED STATES OF AMERICA",
-    "EMP_CONTACT_POSTAL_CODE": "02865",
+    "EMP_CONTACT_POSTAL_CODE": 2865,
     "SKILL_LEVEL": "Level II",
     "WAGE": "$96,408.00",
     "UNIT_OF_PAY": "Year",
@@ -1341,6 +1407,7 @@
     "SPECIFIC_SKILLS": "ETL APPLICATION AND DATA ANALYTICS EXPERIENCE. MUST HAVE EXPERIENCE WORKING WITH RELATIONAL DATABASES SQL AND BUILDING HIGH VOLUME DATA PIPELINES; BUILDING DATA TRANSFORMATION AND PROCESSING SOLUTIONS; AND DESIGNING  OPTIMIZING QUERIES OF PROCESSING DATA. MUST HAVE EXPERIENCE WITH THE FOLLOWING TOOLSTECHNOLOGIES SAS UNIX  ENTERPRISE GUIDE; HADOOP ARCHITECTURE; TABLEAU; HDFS COMMANDS; PYTHON; REST API; HIVE; BASH SHELL SCRIPTS; UNIX UTILITIES  UNIX COMMANDS."
   },
   {
+    "ID": 68,
     "RECEIVED_DATE": "9/23/20",
     "DECISION_DATE": "4/28/21",
     "EMPLOYER_NAME": "TISTA SCIENCE AND TECHNOLOGY",
@@ -1361,6 +1428,7 @@
     "SPECIFIC_SKILLS": "Masters degree in Computer Science, Computer Information Systems, Engineering any, or related technical field and 12 months experience in job offered or computer related occupation. Experience must include 1 Python, 2 Java, 3 SQL, 4 AWS, 5 HDFS, 6 Linux, 7 SSISSSRSSSAS, and 8 Hive.  Experience may be gained concurrently.  Any suitable combination of education, training or experience is acceptable."
   },
   {
+    "ID": 69,
     "RECEIVED_DATE": "1/22/21",
     "DECISION_DATE": "6/24/21",
     "EMPLOYER_NAME": "UBER TECHNOLOGIES INC.",
@@ -1381,6 +1449,7 @@
     "SPECIFIC_SKILLS": "The position requires a Bachelors degree or foreign equivalent in Computer Science, Engineering any or related field and 2 years of experience in job offered or related occupation. Employer will accept a 3year or 4year degree.br br br Position requires  2 years of experience in the followingbr br 1. Relational database concepts SQL and MySQLbr 2. Big data technology Hive and Hadoopbr 3. UNIXLINUX Scriptingbr 4. Data analysis and Machine Learning Systemsbr br Any suitable combination of education, training or experience is acceptable."
   },
   {
+    "ID": 70,
     "RECEIVED_DATE": "8/3/20",
     "DECISION_DATE": "3/31/21",
     "EMPLOYER_NAME": "STELLAR IT SOLUTIONS, INC",
@@ -1401,6 +1470,7 @@
     "SPECIFIC_SKILLS": "May also require to travel various unanticipated client sites nationally"
   },
   {
+    "ID": 71,
     "RECEIVED_DATE": "9/29/20",
     "DECISION_DATE": "8/9/21",
     "EMPLOYER_NAME": "Molex, LLC",
@@ -1421,6 +1491,7 @@
     "SPECIFIC_SKILLS": "Required Skills software development experience with cloud data infrastructure; hands on design, coding, inmemory computation, fault tolerance in spark; Java, Python, Unix, MongoDBHBase, Jenkins, data streaming platform in cloud environment Kafka, Scala, AWSAzure, RDD, realtime stream processing, Hadoop.  Masters degree in Computer Science or Computer Engineering or Information Technology or related field plus three years of experience in the job offered or as a Software Engineer or Software DesignDevelopment OR Bachelors degree in Computer Science or Computer Engineering or Information Technology or related field plus five years of progressive experience in the job offered or as a Software Engineer or Software DesignDevelopment."
   },
   {
+    "ID": 72,
     "RECEIVED_DATE": "9/15/20",
     "DECISION_DATE": "4/27/21",
     "EMPLOYER_NAME": "SMULE, INC.",
@@ -1441,6 +1512,7 @@
     "SPECIFIC_SKILLS": "6 MONTHS EXPERIENCE USING PYTHON, SHELL SCRIPTING, SQL AND UNIXLINUX ENVIRONMENT, MONITORING, TRACKING, AND TROUBLESHOOTING DATA STREAMS AND DATA QUALITY AND EXPERIENCE ON GIT, PRESTO, HADOOP, HIVE."
   },
   {
+    "ID": 73,
     "RECEIVED_DATE": "2/11/21",
     "DECISION_DATE": "7/16/21",
     "EMPLOYER_NAME": "UKG Inc.",
@@ -1461,6 +1533,7 @@
     "SPECIFIC_SKILLS": "Bachelors degree in a computer related field plus at least 60 months of work experience in cloudbased data analysis and integration that includes at least 36 months working with NoSQL, Relational and Columnar Database systems, analysis and reporting tools and Data Warehouse development, integration, testing required.br br br PLEASE NOTE regarding the employers name in section C.1. that UKG, Inc. was formerly known as Ultimate Software Group, Inc."
   },
   {
+    "ID": 74,
     "RECEIVED_DATE": "3/5/21",
     "DECISION_DATE": "8/4/21",
     "EMPLOYER_NAME": "UKG Inc.",
@@ -1481,6 +1554,7 @@
     "SPECIFIC_SKILLS": "Bachelors degree in a Computer related field plus at least 60 months of work experience in Cloudbased data analysis and integration that included at least 36 months work with NoSQL, Relational and Columnar database systems, analysis and reporting tools, data warehouse development, integration. Testing required.br br br PLEASE NOTE regarding the employers name in section C.1. that UKG, Inc. was formerly known as The Ultimate Software Group, Inc."
   },
   {
+    "ID": 75,
     "RECEIVED_DATE": "2/5/21",
     "DECISION_DATE": "7/22/21",
     "EMPLOYER_NAME": "HULU, LLC",
@@ -1501,6 +1575,7 @@
     "SPECIFIC_SKILLS": "Masters degree or foreign equivalent in Business Analytics, Computer Science, Electrical Engineering, Information Systems, or a closely related field and two 2 years of experience in a Data Engineering or Software Engineering occupation. Alternatively, employer will accept a Bachelors degree or foreign equivalent in Business Analytics, Computer Science, Electrical Engineering, Information Systems, or a closely related field and five 5 years of progressive experience in a Data Engineering or Software Engineering occupation. The required experience must have included 2 years of experience with at least one major database system SQL Server, MySQL or Oracle; 2 years of experience with data integration toolsets and writing and maintaining ETL jobs; 2 years of experience with SQLTSQL and creating and tuning queries; 2 years of experience with distributed Big Data solutions such as Hadoop, AWS, or Spark; 2 years of experience with Programming JavaC#Scala or related; 2 years of experience with a scripting language such as Python or Bash; 2 years of experience with Data Modeling both dimensional and normalized models; 1 year of experience with Statistical Computing language such as R or SAS; 1 year of experience with Cloud Data Warehousing solution such as Snowflake or Redshift or Netezza. Any and all experience may be gained concurrently."
   },
   {
+    "ID": 76,
     "RECEIVED_DATE": "12/16/20",
     "DECISION_DATE": "6/10/21",
     "EMPLOYER_NAME": "OATH HOLDINGS INC.",
@@ -1521,6 +1596,7 @@
     "SPECIFIC_SKILLS": "Requires Masters degree in Computer Science, Engineering, Information Systems or a related field and 2 years of experience in a computerrelated occupation. Education or experience to include 1. Hive, Spark, Hbase, Sqoop, Impala, Kafka, Flume, Oozie, or MapReduce; 2. Scala, Java, or Python; 3. SQL development on database or BIDW; 4. GitJenkins and pipeline automation; 5. Shell scripting; and 6. Web services  API development and testing."
   },
   {
+    "ID": 77,
     "RECEIVED_DATE": "2/24/21",
     "DECISION_DATE": "7/28/21",
     "EMPLOYER_NAME": "PELOTON INTERACTIVE, INC.",
@@ -1541,6 +1617,7 @@
     "SPECIFIC_SKILLS": "Masters degree or foreign equivalent in Business Intelligence, Business Analytics, or a related STEM field, PLUS one 1 year of experience in the job offered or a related position. Experience must include demonstrable knowledge of Amazon Cloud Ecosystems; Big Data; Data Warehouse; Data Pipeline; Python; Java; Linux; Airflow; Rest API; Git."
   },
   {
+    "ID": 78,
     "RECEIVED_DATE": "9/15/20",
     "DECISION_DATE": "8/2/21",
     "EMPLOYER_NAME": "CITADEL AMERICAS LLC",
@@ -1561,6 +1638,7 @@
     "SPECIFIC_SKILLS": "Requires a Masters degree or foreign equivalent in Computer Science, Engineering, Physics, Mathematics, Statistics, Economics or a related field. Education, training or experience must include the following software engineering; performing data mining and transformation as well as Web data extraction; systems design including translating business requirements into systems functionalities and building clear user interfaces; programming in Python; data structures, algorithms and computer architecture; big data processing and cloud technologies including Spark, Hadoop, and AWS S3; and, database development in MS SQL Server, HP Vertica, Snowflake or MongoDB. Employer will accept any suitable combination of education, training andor experience which would qualify an applicant for this position."
   },
   {
+    "ID": 79,
     "RECEIVED_DATE": "9/18/20",
     "DECISION_DATE": "8/2/21",
     "EMPLOYER_NAME": "CITADEL AMERICAS LLC",
@@ -1581,6 +1659,7 @@
     "SPECIFIC_SKILLS": "Requires a Masters degree or foreign equivalent in Computer Science, Engineering, Physics, Mathematics, Statistics, Economics or a related field. Education, training or experience must include the following software engineering; performing data mining and transformation as well as Web data extraction; systems design including translating business requirements into systems functionalities and building clear user interfaces; programming in Python; data structures, algorithms and computer architecture; big data processing and cloud technologies including Spark, Hadoop, and AWS S3; and, database development in MS SQL Server, HP Vertica, Snowflake or MongoDB. Employer will accept any suitable combination of education, training andor experience which would qualify an applicant for this position."
   },
   {
+    "ID": 80,
     "RECEIVED_DATE": "4/29/21",
     "DECISION_DATE": "8/31/21",
     "EMPLOYER_NAME": "Citadel Enterprise Americas LLC",
@@ -1601,6 +1680,7 @@
     "SPECIFIC_SKILLS": "One 1 year of experience required in programming in Python or R; SQL; UnixLinuxWindows operating systems; Distributed Computing and Programming; Machine Learning; Platform and Web Development; and Object Oriented Code.br br Employer will accept foreign degree equivalent. Employer will accept university level experience in lieu of work experience in job offered or similar occupation."
   },
   {
+    "ID": 81,
     "RECEIVED_DATE": "3/22/21",
     "DECISION_DATE": "8/18/21",
     "EMPLOYER_NAME": "ELIASSEN GROUP, LLC",
@@ -1609,7 +1689,7 @@
     "EMP_CONTACT_CITY": "Reading",
     "EMP_CONTACT_STATE_PROVINCE": "MASSACHUSETTS",
     "EMP_CONTACT_COUNTRY": "UNITED STATES OF AMERICA",
-    "EMP_CONTACT_POSTAL_CODE": "01867",
+    "EMP_CONTACT_POSTAL_CODE": 1867,
     "SKILL_LEVEL": "Level II",
     "WAGE": "$100,942.00",
     "UNIT_OF_PAY": "Year",
@@ -1621,6 +1701,7 @@
     "SPECIFIC_SKILLS": "1 year experience with Python, create data pipeline, SQL Server, SQL Profiler, UAT Testing. Experience must be gained after Bachelors degree, but can be earned before, during, or after Masters degree.br br For H.6., H.8., and H.10., if Masters degree, then need one year of experience in the job offered or any related occupation. If Bachelors degree, then need five years of experience in the job offered or any related occupation."
   },
   {
+    "ID": 82,
     "RECEIVED_DATE": "2/4/21",
     "DECISION_DATE": "9/10/21",
     "EMPLOYER_NAME": "FACEBOOK, INC.",
@@ -1641,6 +1722,7 @@
     "SPECIFIC_SKILLS": "Employer will accept a Masters degree in Computer Science, Engineering, Mathematics, Physics, or related field and 24 months of work experience in job offered or in a data analytics or computerrelated occupation.br Experience must include 6 months of experience in each of the followingbr 1. Data ETL Extract, Transform, Load design, implementation, and maintenance on a large scale;br 2. Programming in Python, Perl, Java,  or PHP;br 3. Internet technologies HTTP, HTML, CSS, or JavaScript;br 4. Writing SQL statements;br 5. Analyzing large volumes of data to provide data driven insights, gaps, and inconsistencies;br 6. Data warehousing architecture and plans;br 7. Informatica, Talend, Pentaho, dimensional data modeling, or schema design;br 8. Map Reduce or MPP system;br 9. LAMP stack development; andbr 10. Hadoop, HBase, or Hive."
   },
   {
+    "ID": 83,
     "RECEIVED_DATE": "5/27/20",
     "DECISION_DATE": "10/28/20",
     "EMPLOYER_NAME": "FACEBOOK, INC.",
@@ -1661,6 +1743,7 @@
     "SPECIFIC_SKILLS": "Employer will accept a Masters degree in Computer Science, Engineering, Mathematics, Physics, or related  field and 24 months of work experience in job offered or in a computerrelated occupation.  Experience must include 6 months of experience in each of the followingbr br 1. Data ETL Extract, Transform, Load design, implementation, and maintenance on a large scale;br 2. Programming in Python, Perl, Java, Javascript, or PHP;br 3. Writing SQL statements;br 4. Analyzing large volumes of data to identify deliverables or to provide data driven insights, gaps, and inconsistencies;br 5. Data warehousing architecture and plans;br 6. Informatica, Talend, Pentaho, dimensional data modeling, or schema design;br 7. Map Reduce or MPP system;br 8. LAMP stack development; andbr 9. Hadoop, HBase, or Hive."
   },
   {
+    "ID": 84,
     "RECEIVED_DATE": "1/29/20",
     "DECISION_DATE": "12/7/20",
     "EMPLOYER_NAME": "HP INC.",
@@ -1681,6 +1764,7 @@
     "SPECIFIC_SKILLS": "Position requires a Masters or foreign degree equivalent in Computer Applications, Computer Engineering, Computer Science, or related field, plus six 6 years of experience in job offered or as a Developer, Technical Lead, Lead Developer, or related occupation.br br Education or experience must include the following 1. Cloudbased software services and solutions; 2. Amazon Web Services AWS; 3. Data analytics, neural networks, or machine learning; 4. SparkEMR or Databricks; 5. Large scale database, data models, and data warehousing techniques"
   },
   {
+    "ID": 85,
     "RECEIVED_DATE": "8/24/20",
     "DECISION_DATE": "4/15/21",
     "EMPLOYER_NAME": "SPOKEO, INC",
@@ -1701,6 +1785,7 @@
     "SPECIFIC_SKILLS": "Must have experience with handson scripting or programming; Big Data Ecosystem Hadoop, Spark or Kafka with complex SQLNOSQL, Databases Cassandra or DynamoDB; ETL tools; Experience working with highlyscalable, distributed systems and cluster architectures AWS, Azure, Goodle Cloud; and experience working with large data sets greater than 10 Billion."
   },
   {
+    "ID": 86,
     "RECEIVED_DATE": "1/26/21",
     "DECISION_DATE": "6/24/21",
     "EMPLOYER_NAME": "ELECTRONIC ARTS, INC.",
@@ -1721,6 +1806,7 @@
     "SPECIFIC_SKILLS": "The position requires a Masters or foreign equivalent degree in Computer Science, Information Systems or in related field and 1 year of experience in the job offered or in an analyst or computerrelated occupation.br br Special Requirements Position requires 1 year of experience in each of the following skillsbr br 1. Machine Learning Algorithms in logistic regression, linear regression, decision trees, Naive Bayes, KNearest Neighbors, support vector machines andor random forest to implement advanced analytical and ML models;br 2. Programming languages in Python, Unix Shell Scripting, Structured Query Language SQL, C, andor C to implement data integration and data quality framework;br 3. Data Visualization tools in Tableau and SAS for reporting and dashboards;br 4. Data Management methods to handle large dataset for integration and analysis; andbr 5. Data technologies in one of the Cloud and MPP database platform including Oracle, SQL server, Teradata, Redshift andor Snowflake.br br Employment and background checks may be required."
   },
   {
+    "ID": 87,
     "RECEIVED_DATE": "6/12/20",
     "DECISION_DATE": "12/21/20",
     "EMPLOYER_NAME": "Farm Credit Services of America, FLCA",
@@ -1741,6 +1827,7 @@
     "SPECIFIC_SKILLS": "Bachelors degree or equivalent in Computer Science, Management Information Systems, Data Governance, Data Management or a closely related field with a minimum of five years of data engineering, software development or infrastructure design that includes experience in Microsoft Database and Data Warehouse tools, reporting technologies, MS Windows Operating Systems, MS Office, Data Lake ecosystems, Metadata Management, Data Modeling, Data Cataloging, Data Quality Workflow and Remediation tools, and Master Data Management as well as detailed knowledge of clientserver products and relatedbr terminology, Windows and other PC software and networking products and related terminology and business and analysis experience in information andor content management and project leadership experience involving crossfunctional teams and outside consultants or vendors."
   },
   {
+    "ID": 88,
     "RECEIVED_DATE": "6/9/20",
     "DECISION_DATE": "1/25/21",
     "EMPLOYER_NAME": "Farm Credit Services of America, FLCA",
@@ -1761,6 +1848,7 @@
     "SPECIFIC_SKILLS": "Bachelors degree or equivalent in Computer Science, Management Information Systems, Data Governance, Data Management or a closely related field with a minimum of five years of data engineering, software development or infrastructure design that includes experience in Microsoft Database and Data Warehouse tools, reporting technologies, MS Windows Operating Systems, MS Office, Data Lake ecosystems, Metadata Management, Data Modeling, Data Cataloging, Data Quality Workflow and Remediation tools, and Master Data Management as well as detailed knowledge of clientserver products and related terminology, Windows and other PC software and networking products and related terminology and business and analysis experience in information andor content management and project leadership experience involving crossfunctional teams and outside consultants or vendors."
   },
   {
+    "ID": 89,
     "RECEIVED_DATE": "7/2/20",
     "DECISION_DATE": "2/5/21",
     "EMPLOYER_NAME": "PHILLIPS 66",
@@ -1781,6 +1869,7 @@
     "SPECIFIC_SKILLS": "Employer will accept Bachelors degree in Computer Software, Electronic Engineering, or related technical field and 4 years of work experience in job offered or 4 years of work experience in data consulting.br br Must have experience with the followingbr br 1 Building and designing largescale data applications;br 2 Database architecture and data warehousing;br 3 Data modeling, mining and wrangling;br 4 Distributed computing and splitting algorithms to yield predictivebr accuracy;br 5 Technologies including S4HANA, SAP BW4HANA, SAP ERP,br EMR Elastic Map Reduce, Athena, HDInsight, Azure DW,br Data products in AWS  Azure, Azure DataBricks, Databr pipelines, SRS, Informatica, and Tableau;br 6 Data Ingestion, Data Synchronization, Data Governance,br Automation to Improve Engineer Productivity;br 7 Providing training and mentoring resources."
   },
   {
+    "ID": 90,
     "RECEIVED_DATE": "6/22/20",
     "DECISION_DATE": "12/29/20",
     "EMPLOYER_NAME": "BRIGHT HORIZONS CHILDRENS CENTERS LLC",
@@ -1789,7 +1878,7 @@
     "EMP_CONTACT_CITY": "Watertown",
     "EMP_CONTACT_STATE_PROVINCE": "MASSACHUSETTS",
     "EMP_CONTACT_COUNTRY": "UNITED STATES OF AMERICA",
-    "EMP_CONTACT_POSTAL_CODE": "02472",
+    "EMP_CONTACT_POSTAL_CODE": 2472,
     "SKILL_LEVEL": "Level III",
     "WAGE": "$110,240.00",
     "UNIT_OF_PAY": "Year",
@@ -1801,6 +1890,7 @@
     "SPECIFIC_SKILLS": "Masters degree, or foreign equivalent, in Information Technology, Computer Science, or closely related field, plus three years of experience in the Job Offered, or any software systems developmentanalysis role.  In the alternative, the employer will accept a Bachelors degree, or foreign equivalent, in Information Technology, Computer Science, or closely related field, plus five years of experience in the Job Offered, or any software systems developmentanalysis role.  Experience, which may be gained concurrently, to include each of the followingbr 1 3 years of experience writing SQL data queries and utilizing data quality tools;br 2 3 years of experience performing data analysis utilizing SQL and statistical software;br 3 3 years of experience utilizing relational database tools and concepts;br 4 3 years of experience building, updating and maintaining data cubes in SQL;br 5 3 years of experience developing and scheduling SSIS packages to run SQL tasks and make data transfers; andbr 6 3 years of experience developing, testing and maintaining TSQL code."
   },
   {
+    "ID": 91,
     "RECEIVED_DATE": "3/25/21",
     "DECISION_DATE": "8/3/21",
     "EMPLOYER_NAME": "APPLE INC.",
@@ -1821,6 +1911,7 @@
     "SPECIFIC_SKILLS": "This position requires a Masters degree or foreign equivalent in Applied Computer Science, Computer Science Engineering, Statistics, Mathematics or related field and 2 years of experience in the job offered or related occupation. Alternatively, employer will accept a Bachelors degree or foreign equivalent in Applied Computer Science, Computer Science Engineering, Statistics, Mathematics or related field and 5 years of progressive, postbaccalaureate experience in the job offered or related occupation.br br 2 years of experience with each of the following skills is requiredbr br 1. Python, Spark, and SQL;br 2. Big Data Technologies Map Reduce;br 3. Cloud Technologies;br 4. Agile;br 5. Data Analysis; andbr 6. ETL and Data Warehousing.br br br Any suitable combination of education, training, or experience is acceptable."
   },
   {
+    "ID": 92,
     "RECEIVED_DATE": "3/10/21",
     "DECISION_DATE": "8/3/21",
     "EMPLOYER_NAME": "Quantiphi, Inc.",
@@ -1829,7 +1920,7 @@
     "EMP_CONTACT_CITY": "Marlborough",
     "EMP_CONTACT_STATE_PROVINCE": "MASSACHUSETTS",
     "EMP_CONTACT_COUNTRY": "UNITED STATES OF AMERICA",
-    "EMP_CONTACT_POSTAL_CODE": "01752",
+    "EMP_CONTACT_POSTAL_CODE": 1752,
     "SKILL_LEVEL": "Level IV",
     "WAGE": "$111,238.00",
     "UNIT_OF_PAY": "Year",
@@ -1841,6 +1932,7 @@
     "SPECIFIC_SKILLS": "Must have experience with all of the following 1 Kimball data warehouse method; 2 data warehouse schema design; 3 ETLELT and reportinganalytic tools and environments; 4 SQL scripts; and 5 data engineering in the insurance domain. Must be willing to travel or temporarily relocate to projects at various unanticipated locations throughout the U.S. Position is based out of our HQ in Marlborough, MA; worksite locations are varied, unanticipated and subject to change."
   },
   {
+    "ID": 93,
     "RECEIVED_DATE": "5/12/20",
     "DECISION_DATE": "10/29/20",
     "EMPLOYER_NAME": "FACEBOOK, INC.",
@@ -1861,6 +1953,7 @@
     "SPECIFIC_SKILLS": "Employer will accept a Masters degree in Computer Science, Engineering, Mathematics, Economics, Physics, or related field and 24 months of work experience in job offered or in a computerrelated occupation.  Experience must include 6 months of experience in each of the followingbr 1. Data ETL Extract, Transform, Load design, implementation, and maintenance on a large scale;br 2. Writing SQL statements;br 3. Analyzing large volumes of data to identify deliverables or to provide data driven insights, gaps, and inconsistencies;br 4. Data warehousing architecture and plans;br 5. Informatica, Talend, Pentaho, dimensional data modeling, or schema design; andbr 6. Hadoop, HBase, or Hive."
   },
   {
+    "ID": 94,
     "RECEIVED_DATE": "2/12/21",
     "DECISION_DATE": "7/14/21",
     "EMPLOYER_NAME": "SPOTIFY USA INC",
@@ -1881,6 +1974,7 @@
     "SPECIFIC_SKILLS": "Prior experience must include four 4 years of experience with functional programming patterns Scala or Python; Agile software development processes; and CICD continuous integrationdelivery automation Ansible or Chef. Prior experience must include two 2 years of experience with eventdriven architecture and frameworks Kafka, PubSub. Prior experience must include 1 year of experience with Cloud managed services AWS or GCP.br br Employer will accept any suitable combination of education, training or experience."
   },
   {
+    "ID": 95,
     "RECEIVED_DATE": "6/11/20",
     "DECISION_DATE": "12/4/20",
     "EMPLOYER_NAME": "AMERICAN GENERAL LIFE INSURANCE COMPANY",
@@ -1901,6 +1995,7 @@
     "SPECIFIC_SKILLS": "None.br br SQL; relational databases; root cause analysis; and data transformation, data structures, metadata, dependency, and workload management."
   },
   {
+    "ID": 96,
     "RECEIVED_DATE": "5/8/20",
     "DECISION_DATE": "10/20/20",
     "EMPLOYER_NAME": "DIGITAL TURBINE",
@@ -1921,6 +2016,7 @@
     "SPECIFIC_SKILLS": "Position also requires three years of demonstrated experience with Working with open source databases; ETL; Open source SQL systems, particularly MySQL and PostgreSQL; Cloudbased ETL tools, including EMR, Talend, and Data Pipeline; Distributed data stores using Redshift; Optimizing query performance; Data structures and schema design; and AWS ecosystem, particularly RDS, Data Pipeline, SQS and SNS."
   },
   {
+    "ID": 97,
     "RECEIVED_DATE": "5/18/20",
     "DECISION_DATE": "11/3/20",
     "EMPLOYER_NAME": "HARTFORD FIRE INSURANCE COMPANY",
@@ -1929,7 +2025,7 @@
     "EMP_CONTACT_CITY": "Hartford",
     "EMP_CONTACT_STATE_PROVINCE": "CONNECTICUT",
     "EMP_CONTACT_COUNTRY": "UNITED STATES OF AMERICA",
-    "EMP_CONTACT_POSTAL_CODE": "06155",
+    "EMP_CONTACT_POSTAL_CODE": 6155,
     "SKILL_LEVEL": "Level IV",
     "WAGE": "$116,251.00",
     "UNIT_OF_PAY": "Year",
@@ -1941,6 +2037,7 @@
     "SPECIFIC_SKILLS": "The position requires a Bachelors degree or foreign equivalent in Computer Science, Computer Engineering, Electronics Engineering, or a related field plus six 6 years of postbaccalaureate work experience in the job offered or in a related position. Experience must include the following Demonstrable experience with business intelligence and analytics tools such as Tableau, Alteryx, Qlikview, IBM Cognos, Microsoft Business Intelligence SSIS, SSAS, SSRS, SQLDB, SAS, BusinessObjects, and SQL; Demonstrable experience with the full stack of MSBI tools including SQLDB, SSAS, SSIS, and SSRS; Demonstrable experience other Business Intelligence tools, including Tableau, Cognos, Business Objects; Demonstrable experience with data warehouse concepts and architecture, agile software development and performance testing and tuning; demonstrable experience with ETLData wrangling tools such as SSIS, Alteryx, Informatica or Trifecta; Demonstrable knowledge of server platforms Unix, LINUX, or Windows; Demonstrable experience integrating and aggregating complex data from multiple data sources and platforms; Demonstrable experience with data management and data quality."
   },
   {
+    "ID": 98,
     "RECEIVED_DATE": "3/23/21",
     "DECISION_DATE": "8/20/21",
     "EMPLOYER_NAME": "VIASAT, INC.",
@@ -1961,6 +2058,7 @@
     "SPECIFIC_SKILLS": "Masters degree in Computer Science, Computer Engineering, or Management Information Systems, plus 3 years of experience in the offered role or related. Requires minimum of 3 years of experience in the following Data Warehousing concepts; developing SQL code; and ETL tools including Pentaho and Alteryx. Requires minimum of 2 years of experience in the following Python programming; Testing and identifying bottlenecks and data quality issues; Database performance tuning; Big data technologies like Apache Spark, Kafka, Kubernetes or Hadoop; and providing operational support for priority issues. Requires minimum of 1 year of experience in the following Spatial database like PostGIS."
   },
   {
+    "ID": 99,
     "RECEIVED_DATE": "11/23/20",
     "DECISION_DATE": "5/21/21",
     "EMPLOYER_NAME": "EXPEDIA, INC.",
@@ -1981,6 +2079,7 @@
     "SPECIFIC_SKILLS": "Employer will accept Bachelors degree in Computer Science, Computer Engineering, or related field, followed by 5 years of progressive, postbaccalaureate work experience in job offered or in a computerrelated occupation.br Position requiresbr 1. Programming using languages such as Python, Java, or Scala;br 2. Amazon Web Services AWS cloud technologies;br 3. Relational databases such as SQL server, AWS Redshift, Snowflake, or Qubole;br 4. ETL concepts and techniques;br 5. SQL;br 6. Open source engines such as Hive, Spark, or Presto;br 7. Sourcing and manipulating data through third party APIs;br 8. Data warehousing, data mining, and data extraction; and,br 9. Reporting and analytics using Tableau."
   },
   {
+    "ID": 100,
     "RECEIVED_DATE": "3/25/21",
     "DECISION_DATE": "8/11/21",
     "EMPLOYER_NAME": "EXPEDIA, INC.",
@@ -2001,6 +2100,7 @@
     "SPECIFIC_SKILLS": "Employer will accept Masters degree in Computer Science, Management Information Systems, Computer Engineering, or related field and 1 year of work experience in job offered or in a computerrelated occupation.br br Position requiresbr 1. SQL and nonSQL databases;br 2. Hadoop, Teradata, or Redshift;br 3. Processing technologies including either Spark or Kafka;br 4. Programming languages including either Python, Java, Scala, or Shell;br 5. Big data technologies including either Hive, Sqoop, or Oozie;br 6. Object Oriented design;br 7. Agile methodologies; and,br 8. ETLs."
   },
   {
+    "ID": 101,
     "RECEIVED_DATE": "11/24/20",
     "DECISION_DATE": "5/24/21",
     "EMPLOYER_NAME": "ROBINHOOD MARKETS, INC.",
@@ -2021,6 +2121,7 @@
     "SPECIFIC_SKILLS": "Requires two 2 years of experience in the following 1 Software architecture; 2 Programming and coding; 3 Algorithms; 4 System infrastructure; 5 Distributed Computational Frameworks, such as Spark, Presto; 6 Database technologies, including Redshift, Postgres, MySQL, Realtime; and 7 Batch processing system.br br Minimum Requirements  Masters degree in Computer Science, Computer Engineering, Electrical Engineering, or related field or foreign equivalent, plus 2 years of experience in the job offered or in a related occupation. In the alternative, we will accept a Bachelors degree in Computer Science, Computer Engineering, Electrical Engineering, or related field or foreign equivalent, plus 5 years of experience in the job offered or in a related occupation. Any suitable combination of education, training, or experience is acceptable."
   },
   {
+    "ID": 102,
     "RECEIVED_DATE": "6/22/20",
     "DECISION_DATE": "1/5/21",
     "EMPLOYER_NAME": "RAYMOND JAMES  ASSOCIATES",
@@ -2041,6 +2142,7 @@
     "SPECIFIC_SKILLS": "Six 6 years of required Software Development, Software Engineering, or related experience must include Four 4 years of experience with Oracle, SQL Server, Netezza, Etl Architecture and Development. Experience must also include Informatica SecureSource Tool Versions 5.0, 4.5, and 4.0; Informatica Test Data Management Tool  Versions 10.2 R1, 10.2 and 10.1; Informatica Data Validation Option Tool DVO  Version 10.2; Informatica Data QualityIDQ Tool  Versions 10.2.  10.1; Informatica Power Center Tool  Versions 10.2 and 10.1.; Windows Power Shell  Unix Shell Scripting Tools; working in Hadoop Environments such as Horton Works HDFS, Ambari, Yarn, Map Reduce; performance optimization of ETL and Oracle SQL, PLSQL; efficient data integration patterns; building low latency data integration solutions; and using software Client Tools such as SQL Server Management Studio SSMS, SQL Developer, Toad and Putty."
   },
   {
+    "ID": 103,
     "RECEIVED_DATE": "12/4/20",
     "DECISION_DATE": "12/4/20",
     "EMPLOYER_NAME": "FACEBOOK, INC.",
@@ -2061,6 +2163,7 @@
     "SPECIFIC_SKILLS": "Employer will accept a Masters degree in Computer Science, Engineering, Mathematics, Physics, or related field and 24 months of work experience in job offered or in a data analytics or computerrelated occupation.  Experience must include 6 months of experience in each of the followingbr 1. Data ETL Extract, Transform, Load design, implementation, and maintenance on a large scale;br 2. Programming in Python, Perl, Java,  or PHP;br 3. Internet technologies HTTP, HTML, CSS, or JavaScript;br 4. Writing SQL statements;br 5. Analyzing large volumes of data to provide data driven insights, gaps, and inconsistencies;br 6. Data warehousing architecture and plans;br 7. Informatica, Talend, Pentaho, dimensional data modeling, or schema design;br 8. Map Reduce or MPP system;br 9. LAMP stack development; andbr 10. Hadoop, HBase, or Hive."
   },
   {
+    "ID": 104,
     "RECEIVED_DATE": "12/4/20",
     "DECISION_DATE": "8/18/21",
     "EMPLOYER_NAME": "FACEBOOK, INC.",
@@ -2081,6 +2184,7 @@
     "SPECIFIC_SKILLS": "Employer will accept a Masters degree in Computer Science, Engineering, Mathematics, Physics, or related field and 24 months of work experience in job offered or in a data analytics or computerrelated occupation.  Experience must include 6 months of experience in each of the followingbr br 1.Data ETL Extract, Transform, Load design, implementation, and maintenance on a large scale;br 2.Programming in Python, Perl, Java,  or PHP;br 3.Internet technologies HTTP, HTML, CSS, or JavaScript;br 4.Writing SQL statements;br 5.Analyzing large volumes of data to provide data driven insights, gaps, and inconsistencies;br 6.Data warehousing architecture and plans;br 7.Informatica, Talend, Pentaho, dimensional data modeling, or schema design;br 8.Map Reduce or MPP system;  andbr 9.Hadoop, HBase, or Hive."
   },
   {
+    "ID": 105,
     "RECEIVED_DATE": "5/15/20",
     "DECISION_DATE": "11/9/20",
     "EMPLOYER_NAME": "FACEBOOK, INC.",
@@ -2101,6 +2205,7 @@
     "SPECIFIC_SKILLS": "Employer will accept a Masters degree in Computer Science, Engineering, Mathematics, Physics, or related field and 24 months of work experience in job offered or in a data analytics or computerrelated occupation.br br Experience must include 6 months of experience in each of the followingbr br 1. Data ETL Extract, Transform, Load design, implementation, and maintenance on a large scale;br 2. Programming in Python, Perl, Java, or PHP;br 3. Internet technologies HTTP, HTML, CSS, or JavaScript;br 4. Writing SQL statements;br 5. Analyzing large volumes of data to provide data driven insights, gaps, and inconsistencies;br 6. Data warehousing architecture and plans;br 7. Map Reduce or MPP system;br 8. LAMP stack development; andbr 9. Hadoop, HBase, or Hive."
   },
   {
+    "ID": 106,
     "RECEIVED_DATE": "5/7/20",
     "DECISION_DATE": "10/16/20",
     "EMPLOYER_NAME": "AMGEN INC.",
@@ -2121,6 +2226,7 @@
     "SPECIFIC_SKILLS": "Bachelors degree or foreign equivalency in Computer Science, Computer Engineering, Information Systems or related field and five years of progressive experience involving in the following Data modeling and tuning of relational as well as NoSQL datastores using Oracle, Redshift, Impala, HDFSHive, or Athena; Spark, Hive; Jenkins, Maven, Gradle, etc.; Data pipeline and workflow management tools; Java, Scala, C, C, C#, SwiftObjective C, Python, or JavaScript. Or Masters degree or foreign equivalency in Computer Science, Computer Engineering, Information Systems or related field and two years of experience involving in the following Data modeling and tuning of relational as well as NoSQL datastores using Oracle, Redshift, Impala, HDFSHive, or Athena; Spark, Hive; Jenkins, Maven, Gradle, etc.; Data pipeline and workflow management tools; Java, Scala, C, C, C#, SwiftObjective C, Python, or JavaScript. Any suitable combination of education, training or experience is acceptable."
   },
   {
+    "ID": 107,
     "RECEIVED_DATE": "9/14/20",
     "DECISION_DATE": "4/23/21",
     "EMPLOYER_NAME": "RAYMOND JAMES  ASSOCIATES",
@@ -2141,6 +2247,7 @@
     "SPECIFIC_SKILLS": "Seven 7 years of Data Engineering, Development, or related experience must include Five 5 years of experience with ETL Technology; Five 5 years of experience with Oracle Data Integrator ODI or related technology such as InformaticaDatastage; Five 5 years experience with Oracle as the ETL database platform; Five 5 years experience with SQL tuning; Two 2 years of experience tuning ETL solutions.  Experience must also include Oracle PLSQL development; Stored Procedures; and optimization of databases."
   },
   {
+    "ID": 108,
     "RECEIVED_DATE": "9/14/20",
     "DECISION_DATE": "4/23/21",
     "EMPLOYER_NAME": "RAYMOND JAMES  ASSOCIATES",
@@ -2161,6 +2268,7 @@
     "SPECIFIC_SKILLS": "Seven 7 years of required software development, engineering or related experience must include ETL concepts and building ETL solutions; Informatica and SSIS; Data warehousing concepts; Data Integration patternstechnologies; Oracle as a Database Platform; Building low latency Data Integration solutions; Prototyping and automating Data Integration Processes; and Experience with SQL Server."
   },
   {
+    "ID": 109,
     "RECEIVED_DATE": "8/17/20",
     "DECISION_DATE": "3/29/21",
     "EMPLOYER_NAME": "SCRY ANALYTICS, INC.",
@@ -2181,6 +2289,7 @@
     "SPECIFIC_SKILLS": "Two 2 years of experience with data engineering, including designing and developing computer software applications using CC, Objectoriented design and programming in Java and Python; Agile development methodology; Java and building APIs; Javascript Development Database design and implementation using relational databases such as SQL Server, MySQL or Oracle and NoSQL databases; algorithm design and development; designingdeveloping Graphical User Interfaces for Webbased applications, and analyzing business and testing requirements and creating test cases and test data sets; producing design documents, writing code, building code, writing test cases and performing unit and integration testing for software components; and experience with or knowledge of Web technologies HTML, HTTP, CSS, JSON and RESTful Webservices.br br As obtained through University level coursework.br br Scry Analytics, Inc. will accept any other suitable combination of education, training or experience."
   },
   {
+    "ID": 110,
     "RECEIVED_DATE": "9/20/20",
     "DECISION_DATE": "4/23/21",
     "EMPLOYER_NAME": "SCRY ANALYTICS, INC.",
@@ -2201,6 +2310,7 @@
     "SPECIFIC_SKILLS": "Two 2 years of experience with designing and developing computer software applications using CC, Objectoriented design and programming; Python; algorithm design and development; neural network frameworks; Linux Operating System; data engineering; statistical data analysis; Machine Learning, including Bayesian modeling, multivariate and logistic regression, support vector machines, cluster analysis, decision and regression trees, random forest, neural networks and ensemble methods; and analyzing large, complex, multidimensional data sets and developing analytic solutions.br br Scry Analytics, Inc. will accept any other suitable combination of education, training or experience."
   },
   {
+    "ID": 111,
     "RECEIVED_DATE": "11/27/20",
     "DECISION_DATE": "5/21/21",
     "EMPLOYER_NAME": "VMWARE, INC.",
@@ -2221,6 +2331,7 @@
     "SPECIFIC_SKILLS": "ONE 1 YEAR OF EXPERIENCE IN SHELL SCRIPTING; SQL; UTILIZING INFORMATICA FOR EXTRACT TRANSFORM LOAD ETL; SAP HANA MODELING; SAP BOBJ AND TABLEAU REPORTING; AND MPP DATABASE USING TERADATA, GREENPLUM, OR HAWQ."
   },
   {
+    "ID": 112,
     "RECEIVED_DATE": "1/26/21",
     "DECISION_DATE": "7/6/21",
     "EMPLOYER_NAME": "CHARTBOOST, INC.",
@@ -2241,6 +2352,7 @@
     "SPECIFIC_SKILLS": "Minimum Requirements Masters degree or foreign equivalent degree in Computer Science, Electrical Engineering, or a related field, and 2 years of work experience as a Data Engineer, Software Engineer, Backend Engineer, or related occupation.br br Specific Skills Experience must includebr 1 Python;br 2 Spark;br 3 Java;br 4 Hadoop and Hive;br 5 Linux and Unix;br 6 AWS cloud;br 7 MySQL; andbr 8 Kafka."
   },
   {
+    "ID": 113,
     "RECEIVED_DATE": "2/24/21",
     "DECISION_DATE": "7/22/21",
     "EMPLOYER_NAME": "CONTEXTLOGIC INC",
@@ -2261,6 +2373,7 @@
     "SPECIFIC_SKILLS": "This position required Masters degree, or foreign equivalent, in Computer Science, Computer Engineering, or related and two 2 years of experience as a Software Data Engineer, Software Engineer or related position.br br Special Skill Requirements 1 API development; 2 MySQL databases; 3 PHP; 4 Programming in JavaScript and PHP; 5 JQuery; 6 AJAX; 7 HTML; 8 CSS; 9 HTTP; 10 LAMP Stack development. Any suitable combination of education, training and experience is acceptable."
   },
   {
+    "ID": 114,
     "RECEIVED_DATE": "3/3/21",
     "DECISION_DATE": "8/23/21",
     "EMPLOYER_NAME": "GRUBHUB HOLDINGS, INC",
@@ -2281,6 +2394,7 @@
     "SPECIFIC_SKILLS": "Requires a Bachelors degree in Computer Science or a related field, plus 5 years of data engineering experience in traditional data warehousing or in big data and pipeline processing environments. Additional requirements 5 years of experience with programming in at least one of the following Python, Scala, or Java. 5 years of experience with each of the following data modeling; SQL; using Spark, Storm, Kafka, Flume, Pig, Hive, Sqoop, or HadoopMapReduce; columnar storage; massive parallel processing data warehouses; working within the Amazon Web Services AWS ecosystem; working within Agile software engineering methodologies.br br Alternatively, employer will accept a Masters degree in Computer Science or a related field, plus 2 years of data engineering experience in traditional data warehousing or in big data and pipeline processing environments. Additional requirements 2 years of experience with programming in at least one of the following Python, Scala, or Java. 2 years of experience with each of the following data modeling; SQL; using Spark, Storm, Kafka, Flume, Pig, Hive, Sqoop, Or HadoopMapReduce; columnar storage; massive parallel processing data warehouses; working within the Amazon Web Services AWS ecosystem; working within Agile software engineering methodologies."
   },
   {
+    "ID": 115,
     "RECEIVED_DATE": "6/5/20",
     "DECISION_DATE": "12/2/20",
     "EMPLOYER_NAME": "CISCO SYSTEMS, INC.",
@@ -2301,6 +2415,7 @@
     "SPECIFIC_SKILLS": "Unix; Golang; Data Structures; Algorithms; Windows and Linux."
   },
   {
+    "ID": 116,
     "RECEIVED_DATE": "6/11/20",
     "DECISION_DATE": "12/4/20",
     "EMPLOYER_NAME": "CISCO SYSTEMS, INC.",
@@ -2321,6 +2436,7 @@
     "SPECIFIC_SKILLS": "Java; Python; Hadoop  Spark; Scala; Shell Scripting; SQL  NoSQL Databases; and Protocol Buffers."
   },
   {
+    "ID": 117,
     "RECEIVED_DATE": "6/10/20",
     "DECISION_DATE": "12/11/20",
     "EMPLOYER_NAME": "CISCO SYSTEMS, INC.",
@@ -2341,6 +2457,7 @@
     "SPECIFIC_SKILLS": "Apache Spark; Algorithm Design; REST APIs; System design and programming in multiple languages Java, C, or Golang"
   },
   {
+    "ID": 118,
     "RECEIVED_DATE": "6/15/20",
     "DECISION_DATE": "12/14/20",
     "EMPLOYER_NAME": "CISCO SYSTEMS, INC.",
@@ -2361,6 +2478,7 @@
     "SPECIFIC_SKILLS": "Unix; Golang; Data Structures; Algorithms; and Windows and Linux."
   },
   {
+    "ID": 119,
     "RECEIVED_DATE": "6/12/20",
     "DECISION_DATE": "12/14/20",
     "EMPLOYER_NAME": "CISCO SYSTEMS, INC.",
@@ -2381,6 +2499,7 @@
     "SPECIFIC_SKILLS": "Unix; Data Structures; Algorithms; and Windows and Linux."
   },
   {
+    "ID": 120,
     "RECEIVED_DATE": "6/15/20",
     "DECISION_DATE": "12/14/20",
     "EMPLOYER_NAME": "CISCO SYSTEMS, INC.",
@@ -2401,6 +2520,7 @@
     "SPECIFIC_SKILLS": "Java; Python; Hadoop  Spark; Scala; Shell Scripting; SQL  NoSQL Databases; and Protocol Buffers."
   },
   {
+    "ID": 121,
     "RECEIVED_DATE": "5/22/20",
     "DECISION_DATE": "11/24/20",
     "EMPLOYER_NAME": "TRIPACTIONS, INC.",
@@ -2421,6 +2541,7 @@
     "SPECIFIC_SKILLS": "BACHELORS DEGREE OR FOREIGN ACADEMIC EQUIVALENT IN ELECTRONIC ENGINEERING, COMPUTER SCIENCE OR A RELATED FIELD AND AT LEAST 3 YEARS OF RELEVANT PROFESSIONAL EXPERIENCE"
   },
   {
+    "ID": 122,
     "RECEIVED_DATE": "1/20/21",
     "DECISION_DATE": "7/6/21",
     "EMPLOYER_NAME": "METLIFE GROUP, INC.",
@@ -2441,6 +2562,7 @@
     "SPECIFIC_SKILLS": "Bachelors degree in Computer Science, Software Engineering, or Biotechnology willing to accept foreign education equivalent plus eight 8 years of experience building big data pipelines, architectures and data sets, including two 2 years of experience planning, designing and supervising construction of big data pipelines, architectures andor data sets. Specific skillsother requirements performing root cause analysis on internal and external data to identify opportunities for improvement using big data frameworks and tools, including Hadoop, HBase, Hive and Pig 4 years; manipulating, processing and extracting value from large disconnected datasets, applying knowledge of Azure Data Factory and Azure Data Lake Analytics 1 year; performing ETL coding and feature engineering for data science projects using Python and Apache Spark 3 years; delivering big data solutions using opensource languages, including Python and Scala on Apache Spark framework to support crossfunctional teams 3 years; leveraging visualization tools, including Apache Zeppelin and Power BI, to analyze datasets 1 year; designing optimal ETL data processing architecture for analytical record datasets to create predictive models andor realtime scoring functions 1 year; and integrating and testing the source code using continuous integration and deployment tools, including Bamboo, Jira, or Bitbucket 1 year."
   },
   {
+    "ID": 123,
     "RECEIVED_DATE": "10/7/20",
     "DECISION_DATE": "5/4/21",
     "EMPLOYER_NAME": "WESTROCK SERVICES",
@@ -2461,6 +2583,7 @@
     "SPECIFIC_SKILLS": "Employer will accept Bachelors degree in Information Science, Computer Science, or related technical field, followed by five years of progressive, postbaccalaureate work experience in job offered or five years of progressive, postbaccalaureate work experience in a related occupation. Must have experience with the following Software AG webMethods products 1 Integration ServerTrading Networks; 2 Broker ServerUniversal Messaging; 3 Business Process Management Suite BPMS; 4 Optimize Analytics; 5 Terracotta in Memory Caching; 6 Adapters; 7 MWS; 8 TN Console; 9 Deployer; 10 Scheduled maintenance activities; 11 webMethods server configuration for Messaging Queues and BPM; 12 webMethods flowJava services and configuration; and 13 Database interactions, performance, optimization, maintenance and tuning."
   },
   {
+    "ID": 124,
     "RECEIVED_DATE": "6/5/20",
     "DECISION_DATE": "12/21/20",
     "EMPLOYER_NAME": "STATE AUTO PROPERTY  CASUALTY INSURANCE COMPANY",
@@ -2481,6 +2604,7 @@
     "SPECIFIC_SKILLS": "60 months of data engineer experience and 36 months of experience with insurance industry data. Also requires extensive knowledge of Guidewire PolicyCenter and ClaimsCenter source system data; proficiency with Hadoop ecosystem of applications and functional understanding of distributed data processing systems architecture Data Lake, Big Data, Hadoop, Spark, and HIVE; and ability to create technical documentation specifications, design documents, and testing documents."
   },
   {
+    "ID": 125,
     "RECEIVED_DATE": "7/1/20",
     "DECISION_DATE": "1/27/21",
     "EMPLOYER_NAME": "STATE AUTO PROPERTY  CASUALTY INSURANCE COMPANY",
@@ -2501,6 +2625,7 @@
     "SPECIFIC_SKILLS": "Requires expertise using Hive for creating tables and data distribution by implementing partitioning and bucketing; expertise in Spark SQL and Spark DataFrames using Scala for distributed data processing; expertise in LinuxUnix shell scripts and Python; expertise in IDEs using Eclipse, GitHub, Jenkins, Maven, and IntelliJ; proficiency in Apache Hadoop ecosystem components MapReduce, Pig, Flume, HBase and Oozie; proficiency in importing and exporting data from HDFS to relational database systems and viceversa using SQOOP; proficiency with AWS EMR, EC2, S3, and Athena and GCP BigQuery; proficiency with SQL Server, MySql, IBM DB2, and Netezza; proficiency executing Hive queries using Hive CLI, WebGUI Hue, and Impala to read, write, and query data; ability to develop, tune, and optimize HQL queries; ability to convey key messages in technical and business terms; ability to create technical documentation, including specifications, design documents, and testing documents; and ability to understand business needs and develop technical solutions that are comprehensive, high quality, and flexible for future changes."
   },
   {
+    "ID": 126,
     "RECEIVED_DATE": "9/25/20",
     "DECISION_DATE": "4/28/21",
     "EMPLOYER_NAME": "STATE AUTO PROPERTY  CASUALTY INSURANCE COMPANY",
@@ -2521,6 +2646,7 @@
     "SPECIFIC_SKILLS": "Requires 60 months of data engineer experience and 36 months of experience with insurance industry data. Also requires extensive knowledge of Guidewire PolicyCenter and ClaimsCenter source system data; proficiency with Hadoop ecosystem of applications and functional understanding of distributed data processing systems architecture Data Lake, Big Data, Hadoop, Spark, and HIVE; and ability to create technical documentation specifications, design documents, and testing documents."
   },
   {
+    "ID": 127,
     "RECEIVED_DATE": "9/28/20",
     "DECISION_DATE": "4/29/21",
     "EMPLOYER_NAME": "STATE AUTO PROPERTY  CASUALTY INSURANCE COMPANY",
@@ -2541,6 +2667,7 @@
     "SPECIFIC_SKILLS": "Requires 60 months of data engineer experience and 36 months of experience with insurance industry data. Also requires extensive knowledge of Guidewire PolicyCenter and ClaimsCenter source system data; proficiency with Hadoop ecosystem of applications and functional understanding of distributed data processing systems architecture Data Lake, Big Data, Hadoop, Spark, and HIVE; and ability to create technical documentation specifications, design documents, and testing documents."
   },
   {
+    "ID": 128,
     "RECEIVED_DATE": "9/29/20",
     "DECISION_DATE": "5/7/21",
     "EMPLOYER_NAME": "STATE AUTO PROPERTY  CASUALTY INSURANCE COMPANY",
@@ -2561,6 +2688,7 @@
     "SPECIFIC_SKILLS": "Requires 60 months of data engineer experience and 36 months of experience with insurance industry data. Also requires extensive knowledge of Guidewire PolicyCenter and ClaimsCenter source system data; proficiency with Hadoop ecosystem of applications and functional understanding of distributed data processing systems architecture Data Lake, Big Data, Hadoop, Spark, and HIVE; and ability to create technical documentation specifications, design documents, and testing documents."
   },
   {
+    "ID": 129,
     "RECEIVED_DATE": "1/17/20",
     "DECISION_DATE": "11/25/20",
     "EMPLOYER_NAME": "JOHN HANCOCK LIFE INSURANCE COMPANY U.S.A.",
@@ -2569,7 +2697,7 @@
     "EMP_CONTACT_CITY": "Boston",
     "EMP_CONTACT_STATE_PROVINCE": "MASSACHUSETTS",
     "EMP_CONTACT_COUNTRY": "UNITED STATES OF AMERICA",
-    "EMP_CONTACT_POSTAL_CODE": "02117",
+    "EMP_CONTACT_POSTAL_CODE": 2117,
     "SKILL_LEVEL": "Level IV",
     "WAGE": "$131,456.00",
     "UNIT_OF_PAY": "Year",
@@ -2581,6 +2709,7 @@
     "SPECIFIC_SKILLS": "All Requirementsbr br Bachelors degree or foreign equivalent in Computer Science, Management Information Systems, or closely related field and 7 years of experience working with Big Data systems.br br Experience must includebr br  7 years of experience working with various types of SDLC methods such as Agile, Waterfall, Iterative, etc.br  7 years of experience working with Java, Python, Shell Scripting, Scala, and R languages in building Big Data solutions for ingestion and analytics.br  7 years of experience in creating and publishing design documents, usage patterns, and cookbooks for the technical community.br  4 years of experience using Datalake.br  3 years of experience working on Big Data technologies on inhouse and cloud infrastructures.br  3 years of experience working on Big Data processing with programming skills on MapReduce and Spark frameworks.br  3 years of experience using Hadoop databases such as HBase, MongoDB, Hive, Apache Phoenix, with knowledge of traditional RDBMS such as Oracle, Microsoft SQL server, MySQL, etc.br  2 years of experience in developing ingestion security rules.br  2 years of experience working with tools such as SAS, R, Tableau, and QlikView.br br Experience may be gained concurrently."
   },
   {
+    "ID": 130,
     "RECEIVED_DATE": "5/6/20",
     "DECISION_DATE": "10/16/20",
     "EMPLOYER_NAME": "FACEBOOK, INC.",
@@ -2601,6 +2730,7 @@
     "SPECIFIC_SKILLS": "Employer will accept a Masters degree in Computer Science, Engineering, Mathematics, Physics, or related field and 36 months of work experience in the job offered or in a computerrelated occupation.br br Experience must include 6 months of experience in each of the followingbr br 1. Data ETL Extract, Transform, Load design, implementation, and maintenance on a large scale;br 2. Programming in Python, Perl, Java, JavaScript, or PHP;br 3. Writing SQL statements;br 4. Analyzing large volumes of data to identify deliverables or to provide data driven insights, gaps, and inconsistencies;br 5. Data warehousing architecture and plans;br 6. Informatica, Talend, Pentaho, dimensional data modeling, or schema design;br 7. Map Reduce or MPP system;br 8. LAMP stack development; andbr 9. Hadoop, HBase, or Hive."
   },
   {
+    "ID": 131,
     "RECEIVED_DATE": "12/21/20",
     "DECISION_DATE": "6/14/21",
     "EMPLOYER_NAME": "REDFIN CORPORATION",
@@ -2621,6 +2751,7 @@
     "SPECIFIC_SKILLS": "Masters or foreign degree equivalent in Computer Engineering, Computer Science, Information Systems or related field and 3 years of experience in the job offered or in a computerrelated occupation.br br  In lieu of a Masters plus 3 years of experience, employer will accept a Bachelors or foreign equivalent degree in Computer Engineering, Computer Science, Information Systems or in related field and 5 years of progressive, postbaccalaureate experience in the job offered or in a computerrelated occupation.br br Any suitable combination of education, training andor experience is acceptable.br br Special Requirements Position requires experience in each of the following skillsbr br 1. 3 years of experience in creating and maintaining automated data pipelines;br 2. 3 years or experience in database technologies such as Postgres, MySQL, SQL Server, Oracle, and RedShift;br 3. 3 years of experience in Dimensional modeling techniques;br 4. 3 years of experience in data quality approaches and techniques;br 5. 1 year of experience in AWS tools such as S3, Redshift and DynamoDB and IAM;br 6. 1 year of experience in Architectural insight on where to store and modeling; andbr 7. 1 year of experience in programming languages such as Python and Java.br br Employment and background checks may be required."
   },
   {
+    "ID": 132,
     "RECEIVED_DATE": "9/28/20",
     "DECISION_DATE": "4/29/21",
     "EMPLOYER_NAME": "EBAY INC.",
@@ -2641,6 +2772,7 @@
     "SPECIFIC_SKILLS": "1 Hypothesis Testingbr 2 SQLbr 3 Teradatabr 4 Tableaubr 5 Rbr 6 Pythonbr 7 Hadoopbr 8 AB testingbr 9 Power BIbr 10 Campaign Analytics.br Any suitable combination of education, training and experience is acceptable."
   },
   {
+    "ID": 133,
     "RECEIVED_DATE": "4/20/21",
     "DECISION_DATE": "9/24/21",
     "EMPLOYER_NAME": "NERDWALLET, INC.",
@@ -2661,6 +2793,7 @@
     "SPECIFIC_SKILLS": "Must have experience with RDBMS relational database management systems and cloud data warehouses 5 years; SQL; scripting in Python; knowledge of big data technology trends and streaming technologies such as Storm, Kafka, or Kinesis; ETL extract, transform, load and BI business intelligence tools; LinuxUnix operating system; and Shell scripting."
   },
   {
+    "ID": 134,
     "RECEIVED_DATE": "4/23/20",
     "DECISION_DATE": "3/23/21",
     "EMPLOYER_NAME": "CISCO SYSTEMS, INC.",
@@ -2681,6 +2814,7 @@
     "SPECIFIC_SKILLS": "Java; Microservices Docker, or Kubernetes; Kafka; ApacheBeam; NoSQL Databases Cassandra Docker, or MongoDB; Networking protocols TCP, UDP Docker, or SNMP; Build tools Gradle, GitHub or Jenkins."
   },
   {
+    "ID": 135,
     "RECEIVED_DATE": "5/22/20",
     "DECISION_DATE": "11/17/20",
     "EMPLOYER_NAME": "CISCO SYSTEMS, INC.",
@@ -2701,6 +2835,7 @@
     "SPECIFIC_SKILLS": "Java; Apache Flink; Mongo; Kafka; Rabbit MQ; Redis; Network Protocols.br br Experience required in H.6A or H.10A must be postbaccalaureate and progressive in nature."
   },
   {
+    "ID": 136,
     "RECEIVED_DATE": "11/20/20",
     "DECISION_DATE": "5/25/21",
     "EMPLOYER_NAME": "HULU, LLC",
@@ -2721,6 +2856,7 @@
     "SPECIFIC_SKILLS": "Bachelors degree or foreign equivalent in Telecommunication Engineering, Electrical Engineering, Computer Science, Information Systems, or a closely related field plus seven 7 years of progressive experience in a software development occupation.   Alternatively, employer will accept a Masters degree or foreign equivalent in Telecommunication Engineering, Electrical Engineering, Computer Science, Information Systems, or a closely related field plus five 5 years of experience in a software development occupation. The required progressive experience in a software development occupation must have included the following Five 5 years of experience with at least one major database system SQL Server, MySQL or Oracle; Five 5 years of experience with data integration toolsets and writing and maintaining ETL jobs;  Five 5 years of experience with SQLTSQL and creating and tuning queries; Five 5 years of experience with Programming JavaC#Scala or related and scripting skills PythonJS; Three 3 years of experience with a distributed data solution Hadoop or Redshift or Snowflake; Three 3 years of experience with a Cloud based data solution Google Cloud Platform, AWS. Any and all experience may be gained concurrently."
   },
   {
+    "ID": 137,
     "RECEIVED_DATE": "3/19/21",
     "DECISION_DATE": "8/10/21",
     "EMPLOYER_NAME": "Molex, LLC",
@@ -2741,6 +2877,7 @@
     "SPECIFIC_SKILLS": "Employer requires a Bachelors degree in Information Technology, Computer Science, or a closely related field and four 4 years of experience in the job offered or related engineering experience with data streaming platforms.br br Employer also requires three 3 years of experience with each of the followingbr br  Handson design and coding in Spark or similar data processing technology;br  Experience in MongoDB or similar database technologies;br  Experience with data streaming platform technologies such as Kafka, RabbitMQ, MemCache, andor Redis;br  Designing and scaling data infrastructure, models, and pipelines;br  Experience with Resilient Distributed Datasets, inmemory computation, fault tolerance, and realtime stream processing; andbr  Integrating systems through APIs.br br Employer also requires one 1 year of experience with each of the followingbr br  Deploying Cloud environments; andbr  Amazon Web Services data streaming components, such as Lambda andor Kinesis."
   },
   {
+    "ID": 138,
     "RECEIVED_DATE": "4/20/21",
     "DECISION_DATE": "8/31/21",
     "EMPLOYER_NAME": "Deerfield Management Company, L.P.",
@@ -2761,6 +2898,7 @@
     "SPECIFIC_SKILLS": "JOB REQUIREMENTS Must possess a Bachelors degree in Engineering or foreign equivalent and five years of experience in data modeling, database design, programming, development, and implementation of clientserver applications  database systems. Must have experience designing and executing ETL automation for creation of a data warehouse with structured and unstructured data; designing visualizations and reports; communicating report outputs to end users data interpretation and full comprehension of report implications active ownership of information and content; managing full development lifecycle from requirements gathering to implementation for ad hoc reporting needs; and performing ongoing architectural and process improvements to make sense of vast data sets. Must have experience with the following toolstechnologies SQL, NoSQL Mongo, PowerBI, MapReduce Hadoop, Spark, AWS Athena, EMR."
   },
   {
+    "ID": 139,
     "RECEIVED_DATE": "5/1/20",
     "DECISION_DATE": "10/9/20",
     "EMPLOYER_NAME": "FACEBOOK, INC.",
@@ -2781,6 +2919,7 @@
     "SPECIFIC_SKILLS": "Employer will accept a Masters degree in Computer Science, Engineering, Mathematics, Physics, or related filed and 36 months of work experience in job offered or in a data analytics or computerrelated occupation.br br Experience must include 6 months of experience in each of the followingbr Data ETL Extract, Transform, Load design, implementation, and maintenance on a large scale; andor Programming in Python, Perl, Java, andor Internet technologies HTTP, HTML, CSS, andor writing SQL statements; andor data warehousing architecture and plans; andor Informatica, Talend, Pentaho, dimensional data modeling, schema design; andor LAMP stack development."
   },
   {
+    "ID": 140,
     "RECEIVED_DATE": "9/16/20",
     "DECISION_DATE": "4/26/21",
     "EMPLOYER_NAME": "MUNICH RE AMERICA SERVICES, INC.",
@@ -2789,7 +2928,7 @@
     "EMP_CONTACT_CITY": "Princeton",
     "EMP_CONTACT_STATE_PROVINCE": "NEW JERSEY",
     "EMP_CONTACT_COUNTRY": "UNITED STATES OF AMERICA",
-    "EMP_CONTACT_POSTAL_CODE": "08540",
+    "EMP_CONTACT_POSTAL_CODE": 8540,
     "SKILL_LEVEL": "Level IV",
     "WAGE": "$144,976.00",
     "UNIT_OF_PAY": "Year",
@@ -2801,6 +2940,7 @@
     "SPECIFIC_SKILLS": "none"
   },
   {
+    "ID": 141,
     "RECEIVED_DATE": "9/3/20",
     "DECISION_DATE": "4/15/21",
     "EMPLOYER_NAME": "HEARSAY SOCIAL",
@@ -2821,6 +2961,7 @@
     "SPECIFIC_SKILLS": "Position requires a Bachelors Degree or equivalent in Computer Science, Engineering, Information Systems or a related technical field or foreign equivalent plus 5 years of experience on the job offered, or a related occupation. Employer will accept any suitable combination of education, training, or experience.br br Position requires five years of experience in the following skillsbr Develop ETL utilizing one or more of the following technologies Python,Hadoop, Hive, SQL, MySQL, Oracle, PostgreSQL, Airflow, AWS S3, EMR or PDI;br Develop data warehouse and analytical platforms;br Dimensional modeling;br Jira.br Requires at least two years of experience with Spark and ML models."
   },
   {
+    "ID": 142,
     "RECEIVED_DATE": "2/17/21",
     "DECISION_DATE": "7/22/21",
     "EMPLOYER_NAME": "PAYPAL, INC.",
@@ -2841,6 +2982,7 @@
     "SPECIFIC_SKILLS": "1 Hadoopbr 2 Hivebr 3 Pigbr 4 Sparkbr 5 HDFSbr 6 Informaticabr 7 Teradatabr 8 Oraclebr 9 Couchbasebr 10 Pythonbr br Any suitable combination of education, training and experience is acceptable."
   },
   {
+    "ID": 143,
     "RECEIVED_DATE": "3/12/21",
     "DECISION_DATE": "8/5/21",
     "EMPLOYER_NAME": "AMAZON.COM SERVICES LLC",
@@ -2861,6 +3003,7 @@
     "SPECIFIC_SKILLS": "Employer will accept a Bachelors degree, or foreign equivalent, in Computer Science, Engineering, Information Technology, Mathematics, Statistics, or a related field, followed by five years of progressively responsible postbaccalaureate experience in data engineering, database engineering, business intelligence or business analytics.br br Experience with each of the following requiredbr br 1. Five years of experience with building data warehousing, reporting and dashboards.br 2. Five years of experience creating SQL scripts to extract data required for analysis and reporting.br 3. Two years of experience with one of following languages Python, Java, Scala, JavaScript, C# or C.br 4. Two years of experience with requirements gathering and analysis.br 5. Two years of experience with one of the following data warehousing tools SQL, Tableau or Teradata.br 6. Two years of experience leading projects involving complex datasets and high variability.br 7. Two years of experience deriving actionable insights and synthesizing results into recommendations.br br Telecommuting benefits available."
   },
   {
+    "ID": 144,
     "RECEIVED_DATE": "3/26/21",
     "DECISION_DATE": "8/10/21",
     "EMPLOYER_NAME": "2K Games, Inc.",
@@ -2881,6 +3024,7 @@
     "SPECIFIC_SKILLS": "Knowledge of andor experience with can be gained through education andor experience Objectoriented programming languages such as Python; programing using SQL or Shell Script; Data warehouse concepts and implementation of dimensionalSCD Slowly changing Dimensions tables in StarSnowflake Schema; Data pipeline and workflow management tools such as Luigi, Airflow, or Pentaho; Amazon Web Services AWS such as EC2, EMR, Kinesis, or RDS; Implementing requirements using streamprocessing systems such as Storm, Kafka, or SparkStreaming; and Using Source Control, building and deploying tools such as perforce, Git or Jenkins.br br The skills, knowledge andor experience listed here need not be maintained over the full term of experience noted in Sections H.6A, H.8C andor H.10A."
   },
   {
+    "ID": 145,
     "RECEIVED_DATE": "8/13/20",
     "DECISION_DATE": "3/22/21",
     "EMPLOYER_NAME": "ATLASSIAN INC.",
@@ -2901,6 +3045,7 @@
     "SPECIFIC_SKILLS": "MINIMUM REQUIREMENTS Bachelors degree in Engineering or a related analytical field of study and five 5 years experience as an Engineer in data management, programming with SQL, python or java, data modelling, data integration, data quality including experience in working on MPP databases; experience in solution building and architecting with public cloud offerings such as Amazon Web Services, S3, EMRSpark, including test automation and continuous delivery and experience with data visualization tools.br br ALTERNATE REQUIREMENTS Masters degree in degree in Engineering or a related analytical field of study and two 2 years experience  an Engineer in data management, programming with SQL, python or java, data modelling, data integration, data quality including experience in working on MPP databases; experience in solution building and architecting with public cloud offerings such as Amazon Web Services, S3, EMRSpark, including test automation and continuous delivery and experience with data visualization tools.br br SPECIAL REQUIREMENTS Must pass a technical interview.br br Any suitable combination of education, training or experience is acceptable.br br Mr. Murukutla has met the alternate minimum requirements and passed a technical interview prior to beginning employment with Atlassian Inc. on 11262018."
   },
   {
+    "ID": 146,
     "RECEIVED_DATE": "12/16/20",
     "DECISION_DATE": "6/9/21",
     "EMPLOYER_NAME": "DROPBOX, INC.",
@@ -2921,6 +3066,7 @@
     "SPECIFIC_SKILLS": "Bachelors degree in Computer Science, Software Engineering, or a related technical field, followed by 5 years of progressive, postbaccalaureate work experience in the job offered or in a technical architecture related occupation. Education or experience must includebr br 1. Data warehousing tools; andorbr 2. Unit testing; andorbr 3. Bigquery; andorbr 4. Building data pipeline; andorbr 5. SQL queries and PLSQL; andorbr 6. Software Development Life Cycle SDLC; andorbr 7. UNIX Shell scripting; andorbr 8. Oracle; andorbr 9. ETL."
   },
   {
+    "ID": 147,
     "RECEIVED_DATE": "12/17/20",
     "DECISION_DATE": "6/10/21",
     "EMPLOYER_NAME": "YELP, INC.",
@@ -2941,6 +3087,7 @@
     "SPECIFIC_SKILLS": "At least two 2 years of academic training or experience in the following Developing low level design documents as per the architecture design. Data modeling, including reviewing source systems to understand data models and designing new and assessing existing data models for peak performance and efficient data retrieval. Developing ETL applications. SQL. Employer will accept any suitable combination of education, training or experience."
   },
   {
+    "ID": 148,
     "RECEIVED_DATE": "1/4/21",
     "DECISION_DATE": "6/29/21",
     "EMPLOYER_NAME": "YELP, INC.",
@@ -2961,6 +3108,7 @@
     "SPECIFIC_SKILLS": "At least three 3 years of academic training or experience in the following Business Intelligence requirements gathering. Data and software architecture. Data warehousing, profiling, and modeling. Data pipeline and ETL developmentbig data technologies e.g. Talend, Hadoop, AWS. SQL and Java. Employer will accept any suitable combination of education, training or experience."
   },
   {
+    "ID": 149,
     "RECEIVED_DATE": "2/9/21",
     "DECISION_DATE": "7/14/21",
     "EMPLOYER_NAME": "NERDWALLET, INC.",
@@ -2981,4 +3129,3 @@
     "SPECIFIC_SKILLS": "Must have experience with databases 5 years; SQL; Python; ETL extract, transform, and load; BI business intelligence tools such as Looker or Tableau; LinuxUnix operating systems; and Shell scripting."
   }
 ]
-}
